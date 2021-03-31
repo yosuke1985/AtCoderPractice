@@ -44,8 +44,8 @@ func someSums() {
 //someSums()
 
 func main6() {
-    let N = readInt()
-    let numbers = readInts()
+    let N = Int(readLine()!)!
+    let numbers = readLine()!.split(separator: " ").map { Int($0)! }
 
     var alice = 0
     var bob = 0
@@ -63,4 +63,4 @@ func main6() {
 
     print(alice - bob)
 }
-main6()
+//main6()
