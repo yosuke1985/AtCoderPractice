@@ -24,7 +24,7 @@ import Foundation
  382253568 723152896 37802240 379425024 404894720 471526144
  */
 
-func main2() {
+func onlyShift() {
     
     let countNum = Int(readLine()!)!
     
@@ -62,7 +62,7 @@ func main2() {
     print(divideNum)
 }
 
-func onlyShift() {
+func onlyShift2() {
     
     let n = Int(readLine()!)!
     var numList = readLine()!.split(separator: " ").map { Int($0)! }

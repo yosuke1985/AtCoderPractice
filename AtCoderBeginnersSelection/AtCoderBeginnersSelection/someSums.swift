@@ -43,7 +43,7 @@ func someSums() {
 
 //someSums()
 
-func main6() {
+func someSums2() {
     let N = Int(readLine()!)!
     let numbers = readLine()!.split(separator: " ").map { Int($0)! }
 

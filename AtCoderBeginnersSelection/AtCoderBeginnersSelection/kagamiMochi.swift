@@ -18,7 +18,8 @@ func kagamiMochi() {
         numbersSet.insert(num)
     }
     let sum = numbersSet.count
-    print(sum)
+//    print(sum)
+    print(Set(numbers).count)
 }
 
-kagamiMochi()
+//kagamiMochi()
