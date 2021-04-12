@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3326D8FF261BB634003287A0 /* otoshidama2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326D8FE261BB634003287A0 /* otoshidama2.swift */; };
+		3326D907261E7A13003287A0 /* dayDream2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326D906261E7A13003287A0 /* dayDream2.swift */; };
 		33962571260E9CB700FE2D68 /* tool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962570260E9CB700FE2D68 /* tool.swift */; };
 		33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962578260EA0A000FE2D68 /* ShiftOnly.swift */; };
 		3396257F260EBE4B00FE2D68 /* marbles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3396257E260EBE4B00FE2D68 /* marbles.swift */; };
@@ -18,6 +19,7 @@
 		339625A626145CD000FE2D68 /* kagamiMochi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339625A526145CD000FE2D68 /* kagamiMochi.swift */; };
 		339625AB2614612D00FE2D68 /* dayDream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339625AA2614612D00FE2D68 /* dayDream.swift */; };
 		339625AF26153EF800FE2D68 /* otoshidama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339625AE26153EF800FE2D68 /* otoshidama.swift */; };
+		33DAC8402623BCEF00BFD684 /* dayDream3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAC83F2623BCEF00BFD684 /* dayDream3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		3326D8FE261BB634003287A0 /* otoshidama2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otoshidama2.swift; sourceTree = "<group>"; };
+		3326D906261E7A13003287A0 /* dayDream2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream2.swift; sourceTree = "<group>"; };
 		3396256D260E9CB700FE2D68 /* AtCoderBeginnersSelection */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoderBeginnersSelection; sourceTree = BUILT_PRODUCTS_DIR; };
 		33962570260E9CB700FE2D68 /* tool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tool.swift; sourceTree = "<group>"; };
 		33962578260EA0A000FE2D68 /* ShiftOnly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftOnly.swift; sourceTree = "<group>"; };
@@ -45,6 +48,7 @@
 		339625A526145CD000FE2D68 /* kagamiMochi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kagamiMochi.swift; sourceTree = "<group>"; };
 		339625AA2614612D00FE2D68 /* dayDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream.swift; sourceTree = "<group>"; };
 		339625AE26153EF800FE2D68 /* otoshidama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otoshidama.swift; sourceTree = "<group>"; };
+		33DAC83F2623BCEF00BFD684 /* dayDream3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,9 +89,11 @@
 				3396259A261212F000FE2D68 /* someSums.swift */,
 				3396259E2613DC0800FE2D68 /* cardGameForTwo.swift */,
 				339625A526145CD000FE2D68 /* kagamiMochi.swift */,
-				339625AA2614612D00FE2D68 /* dayDream.swift */,
 				339625AE26153EF800FE2D68 /* otoshidama.swift */,
 				3326D8FE261BB634003287A0 /* otoshidama2.swift */,
+				339625AA2614612D00FE2D68 /* dayDream.swift */,
+				3326D906261E7A13003287A0 /* dayDream2.swift */,
+				33DAC83F2623BCEF00BFD684 /* dayDream3.swift */,
 			);
 			path = AtCoderBeginnersSelection;
 			sourceTree = "<group>";
@@ -156,10 +162,12 @@
 				3396259F2613DC0800FE2D68 /* cardGameForTwo.swift in Sources */,
 				3396258926103F1700FE2D68 /* product.swift in Sources */,
 				33962593261097E500FE2D68 /* coins.swift in Sources */,
+				3326D907261E7A13003287A0 /* dayDream2.swift in Sources */,
 				339625AB2614612D00FE2D68 /* dayDream.swift in Sources */,
 				33962571260E9CB700FE2D68 /* tool.swift in Sources */,
 				339625A626145CD000FE2D68 /* kagamiMochi.swift in Sources */,
 				3396257F260EBE4B00FE2D68 /* marbles.swift in Sources */,
+				33DAC8402623BCEF00BFD684 /* dayDream3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -19,7 +19,7 @@ func otoshidama2() {
     
     
     for i in 0...n {
-        for j in 0...n {
+        for j in 0...(n-i) {
             let k = n - i - j
             if k >= 0, y == i * 10000 + j * 5000 + k * 1000 {
                 
@@ -34,4 +34,3 @@ func otoshidama2() {
     
 }
 
-//otoshidama2()
