@@ -20,6 +20,8 @@
 		339625AB2614612D00FE2D68 /* dayDream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339625AA2614612D00FE2D68 /* dayDream.swift */; };
 		339625AF26153EF800FE2D68 /* otoshidama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339625AE26153EF800FE2D68 /* otoshidama.swift */; };
 		33DAC8402623BCEF00BFD684 /* dayDream3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAC83F2623BCEF00BFD684 /* dayDream3.swift */; };
+		33DAC8462625188500BFD684 /* dayDream4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAC8452625188500BFD684 /* dayDream4.swift */; };
+		33DAC84A2625482F00BFD684 /* traveling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAC8492625482F00BFD684 /* traveling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +51,8 @@
 		339625AA2614612D00FE2D68 /* dayDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream.swift; sourceTree = "<group>"; };
 		339625AE26153EF800FE2D68 /* otoshidama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otoshidama.swift; sourceTree = "<group>"; };
 		33DAC83F2623BCEF00BFD684 /* dayDream3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream3.swift; sourceTree = "<group>"; };
+		33DAC8452625188500BFD684 /* dayDream4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream4.swift; sourceTree = "<group>"; };
+		33DAC8492625482F00BFD684 /* traveling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = traveling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,8 @@
 				339625AA2614612D00FE2D68 /* dayDream.swift */,
 				3326D906261E7A13003287A0 /* dayDream2.swift */,
 				33DAC83F2623BCEF00BFD684 /* dayDream3.swift */,
+				33DAC8452625188500BFD684 /* dayDream4.swift */,
+				33DAC8492625482F00BFD684 /* traveling.swift */,
 			);
 			path = AtCoderBeginnersSelection;
 			sourceTree = "<group>";
@@ -156,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3326D8FF261BB634003287A0 /* otoshidama2.swift in Sources */,
+				33DAC8462625188500BFD684 /* dayDream4.swift in Sources */,
 				33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */,
 				3396259B261212F000FE2D68 /* someSums.swift in Sources */,
 				339625AF26153EF800FE2D68 /* otoshidama.swift in Sources */,
@@ -167,6 +174,7 @@
 				33962571260E9CB700FE2D68 /* tool.swift in Sources */,
 				339625A626145CD000FE2D68 /* kagamiMochi.swift in Sources */,
 				3396257F260EBE4B00FE2D68 /* marbles.swift in Sources */,
+				33DAC84A2625482F00BFD684 /* traveling.swift in Sources */,
 				33DAC8402623BCEF00BFD684 /* dayDream3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
