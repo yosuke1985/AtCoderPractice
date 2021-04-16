@@ -11,6 +11,7 @@
 		3326D907261E7A13003287A0 /* dayDream2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326D906261E7A13003287A0 /* dayDream2.swift */; };
 		33922BA22627CDD9006E56C3 /* shiftOnly2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BA12627CDD9006E56C3 /* shiftOnly2.swift */; };
 		33922BBD262982EA006E56C3 /* coins2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BBC262982EA006E56C3 /* coins2.swift */; };
+		33922BC226298682006E56C3 /* someSomes3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BC126298682006E56C3 /* someSomes3.swift */; };
 		33962571260E9CB700FE2D68 /* tool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962570260E9CB700FE2D68 /* tool.swift */; };
 		33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962578260EA0A000FE2D68 /* ShiftOnly.swift */; };
 		3396257F260EBE4B00FE2D68 /* marbles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3396257E260EBE4B00FE2D68 /* marbles.swift */; };
@@ -45,6 +46,7 @@
 		3326D906261E7A13003287A0 /* dayDream2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream2.swift; sourceTree = "<group>"; };
 		33922BA12627CDD9006E56C3 /* shiftOnly2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shiftOnly2.swift; sourceTree = "<group>"; };
 		33922BBC262982EA006E56C3 /* coins2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coins2.swift; sourceTree = "<group>"; };
+		33922BC126298682006E56C3 /* someSomes3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = someSomes3.swift; sourceTree = "<group>"; };
 		3396256D260E9CB700FE2D68 /* AtCoderBeginnersSelection */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoderBeginnersSelection; sourceTree = BUILT_PRODUCTS_DIR; };
 		33962570260E9CB700FE2D68 /* tool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tool.swift; sourceTree = "<group>"; };
 		33962578260EA0A000FE2D68 /* ShiftOnly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftOnly.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				33962592261097E500FE2D68 /* coins.swift */,
 				33922BBC262982EA006E56C3 /* coins2.swift */,
 				3396259A261212F000FE2D68 /* someSums.swift */,
+				33922BC126298682006E56C3 /* someSomes3.swift */,
 				3396259E2613DC0800FE2D68 /* cardGameForTwo.swift */,
 				339625A526145CD000FE2D68 /* kagamiMochi.swift */,
 				339625AE26153EF800FE2D68 /* otoshidama.swift */,
@@ -177,6 +180,7 @@
 				33DAC8462625188500BFD684 /* dayDream4.swift in Sources */,
 				33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */,
 				33922BA22627CDD9006E56C3 /* shiftOnly2.swift in Sources */,
+				33922BC226298682006E56C3 /* someSomes3.swift in Sources */,
 				3396259B261212F000FE2D68 /* someSums.swift in Sources */,
 				339625AF26153EF800FE2D68 /* otoshidama.swift in Sources */,
 				3396259F2613DC0800FE2D68 /* cardGameForTwo.swift in Sources */,
