@@ -34,4 +34,4 @@ func someSums3() {
     
 }
 
-someSums3()
+//someSums3()
