@@ -15,6 +15,7 @@
 		33922BC826298CA1006E56C3 /* cardGameForTow2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BC726298CA1006E56C3 /* cardGameForTow2.swift */; };
 		33922BCD262BBE1F006E56C3 /* kagamiMochi2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BCC262BBE1F006E56C3 /* kagamiMochi2.swift */; };
 		33922BD2262BBED5006E56C3 /* otoshidama3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BD1262BBED5006E56C3 /* otoshidama3.swift */; };
+		33922BDE262FA19A006E56C3 /* dayDream5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BDD262FA19A006E56C3 /* dayDream5.swift */; };
 		33962571260E9CB700FE2D68 /* tool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962570260E9CB700FE2D68 /* tool.swift */; };
 		33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33962578260EA0A000FE2D68 /* ShiftOnly.swift */; };
 		3396257F260EBE4B00FE2D68 /* marbles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3396257E260EBE4B00FE2D68 /* marbles.swift */; };
@@ -53,6 +54,7 @@
 		33922BC726298CA1006E56C3 /* cardGameForTow2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardGameForTow2.swift; sourceTree = "<group>"; };
 		33922BCC262BBE1F006E56C3 /* kagamiMochi2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kagamiMochi2.swift; sourceTree = "<group>"; };
 		33922BD1262BBED5006E56C3 /* otoshidama3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otoshidama3.swift; sourceTree = "<group>"; };
+		33922BDD262FA19A006E56C3 /* dayDream5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream5.swift; sourceTree = "<group>"; };
 		3396256D260E9CB700FE2D68 /* AtCoderBeginnersSelection */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoderBeginnersSelection; sourceTree = BUILT_PRODUCTS_DIR; };
 		33962570260E9CB700FE2D68 /* tool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tool.swift; sourceTree = "<group>"; };
 		33962578260EA0A000FE2D68 /* ShiftOnly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftOnly.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				3326D906261E7A13003287A0 /* dayDream2.swift */,
 				33DAC83F2623BCEF00BFD684 /* dayDream3.swift */,
 				33DAC8452625188500BFD684 /* dayDream4.swift */,
+				33922BDD262FA19A006E56C3 /* dayDream5.swift */,
 				33DAC8492625482F00BFD684 /* traveling.swift */,
 			);
 			path = AtCoderBeginnersSelection;
@@ -199,6 +202,7 @@
 				33922BBD262982EA006E56C3 /* coins2.swift in Sources */,
 				33962593261097E500FE2D68 /* coins.swift in Sources */,
 				33DAC85826265C0000BFD684 /* marbles2.swift in Sources */,
+				33922BDE262FA19A006E56C3 /* dayDream5.swift in Sources */,
 				3326D907261E7A13003287A0 /* dayDream2.swift in Sources */,
 				339625AB2614612D00FE2D68 /* dayDream.swift in Sources */,
 				33962571260E9CB700FE2D68 /* tool.swift in Sources */,

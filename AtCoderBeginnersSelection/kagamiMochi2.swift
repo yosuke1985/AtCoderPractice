@@ -17,4 +17,4 @@ func kagamiMochi2() {
     
 }
 
-kagamiMochi2()
+//kagamiMochi2()
