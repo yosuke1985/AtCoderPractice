@@ -22,12 +22,7 @@ import Foundation
  x + y
  */
 
-typealias Plan = (t: Int, x: Int, y: Int)
 
-func readThreeInts() -> (a: Int, b: Int, c: Int) {
-    let ints = readLine()!.split(separator: " ").map { Int($0)! }
-    return (a: ints[0], b: ints[1], c: ints[2])
-}
 
 func traveling() {
     let N = Int(readLine()!)!

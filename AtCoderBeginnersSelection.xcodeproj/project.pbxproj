@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3326D8FF261BB634003287A0 /* otoshidama2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326D8FE261BB634003287A0 /* otoshidama2.swift */; };
 		3326D907261E7A13003287A0 /* dayDream2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326D906261E7A13003287A0 /* dayDream2.swift */; };
+		338742E5263243B600B23611 /* traveling2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338742E4263243B600B23611 /* traveling2.swift */; };
 		33922BA22627CDD9006E56C3 /* shiftOnly2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BA12627CDD9006E56C3 /* shiftOnly2.swift */; };
 		33922BBD262982EA006E56C3 /* coins2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BBC262982EA006E56C3 /* coins2.swift */; };
 		33922BC226298682006E56C3 /* someSomes3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33922BC126298682006E56C3 /* someSomes3.swift */; };
@@ -48,6 +49,7 @@
 /* Begin PBXFileReference section */
 		3326D8FE261BB634003287A0 /* otoshidama2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otoshidama2.swift; sourceTree = "<group>"; };
 		3326D906261E7A13003287A0 /* dayDream2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream2.swift; sourceTree = "<group>"; };
+		338742E4263243B600B23611 /* traveling2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = traveling2.swift; sourceTree = "<group>"; };
 		33922BA12627CDD9006E56C3 /* shiftOnly2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shiftOnly2.swift; sourceTree = "<group>"; };
 		33922BBC262982EA006E56C3 /* coins2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coins2.swift; sourceTree = "<group>"; };
 		33922BC126298682006E56C3 /* someSomes3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = someSomes3.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				33DAC8452625188500BFD684 /* dayDream4.swift */,
 				33922BDD262FA19A006E56C3 /* dayDream5.swift */,
 				33DAC8492625482F00BFD684 /* traveling.swift */,
+				338742E4263243B600B23611 /* traveling2.swift */,
 			);
 			path = AtCoderBeginnersSelection;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3326D8FF261BB634003287A0 /* otoshidama2.swift in Sources */,
+				338742E5263243B600B23611 /* traveling2.swift in Sources */,
 				33922BD2262BBED5006E56C3 /* otoshidama3.swift in Sources */,
 				33DAC8462625188500BFD684 /* dayDream4.swift in Sources */,
 				33962579260EA0A000FE2D68 /* ShiftOnly.swift in Sources */,

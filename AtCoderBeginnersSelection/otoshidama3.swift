@@ -31,4 +31,4 @@ func otoshidama3() {
     check()
 }
 
-otoshidama3()
+//otoshidama3()
