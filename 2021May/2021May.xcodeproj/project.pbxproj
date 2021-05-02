@@ -17,6 +17,7 @@
 		338D4005263A390F006934AB /* chooseIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338D4004263A390F006934AB /* chooseIntegers.swift */; };
 		338D4008263A3A1C006934AB /* dayDream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338D4007263A3A1C006934AB /* dayDream.swift */; };
 		3391CFE2263B92BF00A2ED76 /* betweenAandB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */; };
+		3391CFE7263E362300A2ED76 /* trained.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391CFE6263E362300A2ED76 /* trained.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		338D4004263A390F006934AB /* chooseIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseIntegers.swift; sourceTree = "<group>"; };
 		338D4007263A3A1C006934AB /* dayDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream.swift; sourceTree = "<group>"; };
 		3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = betweenAandB.swift; sourceTree = "<group>"; };
+		3391CFE6263E362300A2ED76 /* trained.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trained.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				338D4004263A390F006934AB /* chooseIntegers.swift */,
 				338D4007263A3A1C006934AB /* dayDream.swift */,
 				3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */,
+				3391CFE6263E362300A2ED76 /* trained.swift */,
 			);
 			path = Thinking;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				33451EAC2638F81200A93FDF /* gridRepainting2.swift in Sources */,
 				338743332633C53200B23611 /* rgb.swift in Sources */,
 				3387433E2633CAA800B23611 /* minesweeper.swift in Sources */,
+				3391CFE7263E362300A2ED76 /* trained.swift in Sources */,
 				338D4008263A3A1C006934AB /* dayDream.swift in Sources */,
 				3387433B2633C58900B23611 /* tool.swift in Sources */,
 				33451EAA2638F49800A93FDF /* trainingCamp.swift in Sources */,

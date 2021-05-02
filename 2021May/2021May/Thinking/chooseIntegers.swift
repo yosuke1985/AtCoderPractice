@@ -15,6 +15,28 @@ func chooseIntegers() {
     let A = items[0]
     let B = items[1]
     let C = items[2]
+    var isNo = true
     
-    
+    let times = 100
+    for time in 1...times {
+        var sum = 0
+        
+        for t in 1...time {
+            sum += t * A
+        }
+
+        if sum % B == C {
+            print("YES")
+            isNo = false
+            return
+        } else {
+            continue
+        }
+    }
+
+    if isNo {
+        print("NO")
+    }
 }
+
+//chooseIntegers()
