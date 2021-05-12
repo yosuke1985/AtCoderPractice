@@ -14,7 +14,6 @@ func gridRepainting2() {
     let W = hwList[1]
     let minesweeperList = (0..<H).map { _ in Array(readLine()!) }
 
-    
 }
 
 //gridRepainting2()

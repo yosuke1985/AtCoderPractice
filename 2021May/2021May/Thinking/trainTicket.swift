@@ -12,13 +12,9 @@ func trainTicket() {
     let numsString = readLine()!
     let numsChar = Array(numsString)
     
-
-
     let nums = numsChar.map { char in
         return Int(String(char))!
     }
-
-    
     
 }
 

@@ -90,6 +90,7 @@
 				33451EA92638F49800A93FDF /* trainingCamp.swift */,
 				338D4002263A38AB006934AB /* paintBall.swift */,
 				3391CFE8263F90A300A2ED76 /* candies.swift */,
+				33D446BF264B677D004AE839 /* ReThinking */,
 				338D4006263A39CB006934AB /* Thinking */,
 			);
 			path = 2021May;
@@ -99,14 +100,21 @@
 			isa = PBXGroup;
 			children = (
 				33451EAB2638F81200A93FDF /* gridRepainting2.swift */,
-				338D4004263A390F006934AB /* chooseIntegers.swift */,
-				338D4007263A3A1C006934AB /* dayDream.swift */,
-				3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */,
-				3391CFE6263E362300A2ED76 /* trained.swift */,
 				3391CFEA2643733E00A2ED76 /* trainTicket.swift */,
-				33CF6A242644CE44007924DF /* attention.swift */,
 			);
 			path = Thinking;
+			sourceTree = "<group>";
+		};
+		33D446BF264B677D004AE839 /* ReThinking */ = {
+			isa = PBXGroup;
+			children = (
+				33CF6A242644CE44007924DF /* attention.swift */,
+				3391CFE6263E362300A2ED76 /* trained.swift */,
+				338D4007263A3A1C006934AB /* dayDream.swift */,
+				3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */,
+				338D4004263A390F006934AB /* chooseIntegers.swift */,
+			);
+			path = ReThinking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
