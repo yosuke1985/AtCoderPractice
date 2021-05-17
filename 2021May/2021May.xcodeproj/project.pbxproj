@@ -21,6 +21,7 @@
 		3391CFE9263F90A300A2ED76 /* candies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391CFE8263F90A300A2ED76 /* candies.swift */; };
 		3391CFEB2643733E00A2ED76 /* trainTicket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391CFEA2643733E00A2ED76 /* trainTicket.swift */; };
 		33CF6A252644CE44007924DF /* attention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CF6A242644CE44007924DF /* attention.swift */; };
+		33D446C1264F5C0B004AE839 /* trainTicket2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D446C0264F5C0B004AE839 /* trainTicket2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		3391CFE8263F90A300A2ED76 /* candies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = candies.swift; sourceTree = "<group>"; };
 		3391CFEA2643733E00A2ED76 /* trainTicket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainTicket.swift; sourceTree = "<group>"; };
 		33CF6A242644CE44007924DF /* attention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attention.swift; sourceTree = "<group>"; };
+		33D446C0264F5C0B004AE839 /* trainTicket2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainTicket2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,8 @@
 				33451EA92638F49800A93FDF /* trainingCamp.swift */,
 				338D4002263A38AB006934AB /* paintBall.swift */,
 				3391CFE8263F90A300A2ED76 /* candies.swift */,
+				33D446C0264F5C0B004AE839 /* trainTicket2.swift */,
+				3391CFEA2643733E00A2ED76 /* trainTicket.swift */,
 				33D446BF264B677D004AE839 /* ReThinking */,
 				338D4006263A39CB006934AB /* Thinking */,
 			);
@@ -112,7 +116,6 @@
 				338D4007263A3A1C006934AB /* dayDream.swift */,
 				3391CFE1263B92BF00A2ED76 /* betweenAandB.swift */,
 				338D4004263A390F006934AB /* chooseIntegers.swift */,
-				3391CFEA2643733E00A2ED76 /* trainTicket.swift */,
 			);
 			path = ReThinking;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33D446C1264F5C0B004AE839 /* trainTicket2.swift in Sources */,
 				33CF6A252644CE44007924DF /* attention.swift in Sources */,
 				3330333E26378E5400714AA9 /* twoSwitches.swift in Sources */,
 				3391CFEB2643733E00A2ED76 /* trainTicket.swift in Sources */,
