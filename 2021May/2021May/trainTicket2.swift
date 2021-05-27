@@ -64,4 +64,4 @@ func trainTicket2() {
     
 }
 
-trainTicket2()
+//trainTicket2()
