@@ -81,4 +81,4 @@ func gridRepainting2() {
 
 }
 
-gridRepainting2()
+//gridRepainting2() 
