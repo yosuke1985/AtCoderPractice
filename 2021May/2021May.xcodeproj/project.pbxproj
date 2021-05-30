@@ -23,6 +23,8 @@
 		3391CFEB2643733E00A2ED76 /* trainTicket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391CFEA2643733E00A2ED76 /* trainTicket.swift */; };
 		33CF6A252644CE44007924DF /* attention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CF6A242644CE44007924DF /* attention.swift */; };
 		33D446C1264F5C0B004AE839 /* trainTicket2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D446C0264F5C0B004AE839 /* trainTicket2.swift */; };
+		C98CB346266205A900FF1613 /* averageLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98CB345266205A900FF1613 /* averageLength.swift */; };
+		C98CB3482663233600FF1613 /* countABC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98CB3472663233600FF1613 /* countABC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +57,8 @@
 		3391CFEA2643733E00A2ED76 /* trainTicket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainTicket.swift; sourceTree = "<group>"; };
 		33CF6A242644CE44007924DF /* attention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attention.swift; sourceTree = "<group>"; };
 		33D446C0264F5C0B004AE839 /* trainTicket2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainTicket2.swift; sourceTree = "<group>"; };
+		C98CB345266205A900FF1613 /* averageLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = averageLength.swift; sourceTree = "<group>"; };
+		C98CB3472663233600FF1613 /* countABC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countABC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,7 @@
 				33D446C0264F5C0B004AE839 /* trainTicket2.swift */,
 				3391CFEA2643733E00A2ED76 /* trainTicket.swift */,
 				330A3BB926608DE9000633EC /* b81.swift */,
+				C98CB3472663233600FF1613 /* countABC.swift */,
 				33D446BF264B677D004AE839 /* ReThinking */,
 				338D4006263A39CB006934AB /* Thinking */,
 			);
@@ -107,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				33451EAB2638F81200A93FDF /* gridRepainting2.swift */,
+				C98CB345266205A900FF1613 /* averageLength.swift */,
 			);
 			path = Thinking;
 			sourceTree = "<group>";
@@ -190,7 +196,9 @@
 				3387433E2633CAA800B23611 /* minesweeper.swift in Sources */,
 				3391CFE7263E362300A2ED76 /* trained.swift in Sources */,
 				338D4008263A3A1C006934AB /* dayDream.swift in Sources */,
+				C98CB3482663233600FF1613 /* countABC.swift in Sources */,
 				3387433B2633C58900B23611 /* tool.swift in Sources */,
+				C98CB346266205A900FF1613 /* averageLength.swift in Sources */,
 				33451EAA2638F49800A93FDF /* trainingCamp.swift in Sources */,
 				338D4003263A38AB006934AB /* paintBall.swift in Sources */,
 				3391CFE2263B92BF00A2ED76 /* betweenAandB.swift in Sources */,
