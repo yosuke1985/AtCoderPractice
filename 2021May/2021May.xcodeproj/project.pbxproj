@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		330A3BBA26608DE9000633EC /* b81.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BB926608DE9000633EC /* b81.swift */; };
+		330A3BBC266461EE000633EC /* ATCoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BBB266461EE000633EC /* ATCoder.swift */; };
 		3330333E26378E5400714AA9 /* twoSwitches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3330333D26378E5400714AA9 /* twoSwitches.swift */; };
 		33451EAA2638F49800A93FDF /* trainingCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33451EA92638F49800A93FDF /* trainingCamp.swift */; };
 		33451EAC2638F81200A93FDF /* gridRepainting2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33451EAB2638F81200A93FDF /* gridRepainting2.swift */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		330A3BB926608DE9000633EC /* b81.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = b81.swift; sourceTree = "<group>"; };
+		330A3BBB266461EE000633EC /* ATCoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATCoder.swift; sourceTree = "<group>"; };
 		3330333D26378E5400714AA9 /* twoSwitches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoSwitches.swift; sourceTree = "<group>"; };
 		33451EA92638F49800A93FDF /* trainingCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainingCamp.swift; sourceTree = "<group>"; };
 		33451EAB2638F81200A93FDF /* gridRepainting2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gridRepainting2.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				33451EAB2638F81200A93FDF /* gridRepainting2.swift */,
+				330A3BBB266461EE000633EC /* ATCoder.swift */,
 				C98CB345266205A900FF1613 /* averageLength.swift */,
 			);
 			path = Thinking;
@@ -203,6 +206,7 @@
 				338D4003263A38AB006934AB /* paintBall.swift in Sources */,
 				3391CFE2263B92BF00A2ED76 /* betweenAandB.swift in Sources */,
 				3391CFE9263F90A300A2ED76 /* candies.swift in Sources */,
+				330A3BBC266461EE000633EC /* ATCoder.swift in Sources */,
 				330A3BBA26608DE9000633EC /* b81.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
