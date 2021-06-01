@@ -15,31 +15,22 @@ func chooseIntegers2() {
     let A = items[0]
     let B = items[1]
     let C = items[2]
-    
-    /*
-     Aの倍数をBで割る。 あまりC
-     
-     (A * i) / B % == C
-     
-     どう分解する？
-     
-     7 5 1
-     7, 14
-     21 / 5 = 4 あまり1
-     
-     2 2 1
-     
-     */
-    
+    var flag = true
+
+    for i in 1...1000{
+        if (B * i + C).isMultiple(of: A) {
+            print("YES")
+            flag = false
+            return
+        }
+    }
+    if flag {
+        print("NO")
+    }
     
 }
 
-chooseIntegers2()
-
-
-
-
-
+//chooseIntegers2()
 
 
 
