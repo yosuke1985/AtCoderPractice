@@ -9,6 +9,40 @@
 import Foundation
 
 
+func chooseIntegers2() {
+    let items = readLine()!.split(separator: " ").map { Int($0)! }
+    
+    let A = items[0]
+    let B = items[1]
+    let C = items[2]
+    
+    /*
+     Aの倍数をBで割る。 あまりC
+     
+     (A * i) / B % == C
+     
+     どう分解する？
+     
+     7 5 1
+     7, 14
+     21 / 5 = 4 あまり1
+     
+     2 2 1
+     
+     */
+    
+    
+}
+
+chooseIntegers2()
+
+
+
+
+
+
+
+
 func chooseIntegers() {
     let items = readLine()!.split(separator: " ").map { Int($0)! }
     
