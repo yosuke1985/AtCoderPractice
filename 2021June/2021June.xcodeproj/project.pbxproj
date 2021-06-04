@@ -13,6 +13,7 @@
 		330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BD72665A006000633EC /* chooseIntegers2.swift */; };
 		330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2A2666D475000633EC /* UnevenNumbers.swift */; };
 		330A3C2D2668749F000633EC /* 105.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2C2668749F000633EC /* 105.swift */; };
+		33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,12 +34,13 @@
 		330A3BD42665A006000633EC /* trained.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trained.swift; sourceTree = "<group>"; };
 		330A3BD52665A006000633EC /* dayDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream.swift; sourceTree = "<group>"; };
 		330A3BD62665A006000633EC /* betweenAandB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = betweenAandB.swift; sourceTree = "<group>"; };
-		330A3BD72665A006000633EC /* chooseIntegers2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = chooseIntegers2.swift; path = ../../2021May/2021May/Thinking/chooseIntegers2.swift; sourceTree = "<group>"; };
-		330A3BE52665A058000633EC /* ATCoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ATCoder.swift; path = 2021June/ATCoder.swift; sourceTree = SOURCE_ROOT; };
+		330A3BD72665A006000633EC /* chooseIntegers2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseIntegers2.swift; sourceTree = "<group>"; };
+		330A3BE52665A058000633EC /* ATCoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ATCoder.swift; path = 2021June/CA/ATCoder.swift; sourceTree = SOURCE_ROOT; };
 		330A3BE72665A07A000633EC /* averageLength.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = averageLength.swift; path = 2021June/Thinking/averageLength.swift; sourceTree = SOURCE_ROOT; };
 		330A3BE82665A07A000633EC /* gridRepainting2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gridRepainting2.swift; path = 2021June/Thinking/gridRepainting2.swift; sourceTree = SOURCE_ROOT; };
 		330A3C2A2666D475000633EC /* UnevenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnevenNumbers.swift; sourceTree = "<group>"; };
 		330A3C2C2668749F000633EC /* 105.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 105.swift; sourceTree = "<group>"; };
+		33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthCommonDivisor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,9 +75,7 @@
 			children = (
 				330A3BD82665A006000633EC /* ReThinking */,
 				330A3BE12665A021000633EC /* Thinking */,
-				330A3BE52665A058000633EC /* ATCoder.swift */,
-				330A3BD72665A006000633EC /* chooseIntegers2.swift */,
-				330A3C2C2668749F000633EC /* 105.swift */,
+				33903CBC2669D4ED00BEEA82 /* CA */,
 			);
 			path = 2021June;
 			sourceTree = "<group>";
@@ -100,6 +100,17 @@
 			);
 			name = Thinking;
 			path = ../../2021May/2021May/Thinking;
+			sourceTree = "<group>";
+		};
+		33903CBC2669D4ED00BEEA82 /* CA */ = {
+			isa = PBXGroup;
+			children = (
+				330A3BE52665A058000633EC /* ATCoder.swift */,
+				330A3BD72665A006000633EC /* chooseIntegers2.swift */,
+				330A3C2C2668749F000633EC /* 105.swift */,
+				33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */,
+			);
+			path = CA;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +172,7 @@
 			files = (
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
+				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
 				330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */,
 				330A3BEA2665A07A000633EC /* gridRepainting2.swift in Sources */,
 				330A3C2D2668749F000633EC /* 105.swift in Sources */,
