@@ -14,7 +14,7 @@
 		330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2A2666D475000633EC /* UnevenNumbers.swift */; };
 		330A3C2D2668749F000633EC /* 105.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2C2668749F000633EC /* 105.swift */; };
 		33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */; };
-		33903CC0266A00BE00BEEA82 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBF266A00BE00BEEA82 /* main.swift */; };
+		33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */; };
 		33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */; };
 /* End PBXBuildFile section */
 
@@ -43,7 +43,7 @@
 		330A3C2A2666D475000633EC /* UnevenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnevenNumbers.swift; sourceTree = "<group>"; };
 		330A3C2C2668749F000633EC /* 105.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 105.swift; sourceTree = "<group>"; };
 		33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthCommonDivisor.swift; sourceTree = "<group>"; };
-		33903CBF266A00BE00BEEA82 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication.swift; sourceTree = "<group>"; };
 		33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = halfAndHalf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,7 +101,7 @@
 				330A3BE72665A07A000633EC /* averageLength.swift */,
 				330A3BE82665A07A000633EC /* gridRepainting2.swift */,
 				330A3C2A2666D475000633EC /* UnevenNumbers.swift */,
-				33903CBF266A00BE00BEEA82 /* main.swift */,
+				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 			);
 			name = Thinking;
@@ -177,7 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */,
-				33903CC0266A00BE00BEEA82 /* main.swift in Sources */,
+				33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */,
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
 				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
