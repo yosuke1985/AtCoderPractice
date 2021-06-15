@@ -16,6 +16,8 @@
 		33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */; };
 		33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */; };
 		33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */; };
+		33903CD82678234000BEEA82 /* switches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD72678234000BEEA82 /* switches.swift */; };
+		33903CDA267824CA00BEEA82 /* luckyPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD9267824CA00BEEA82 /* luckyPin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthCommonDivisor.swift; sourceTree = "<group>"; };
 		33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication.swift; sourceTree = "<group>"; };
 		33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = halfAndHalf.swift; sourceTree = "<group>"; };
+		33903CD72678234000BEEA82 /* switches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = switches.swift; sourceTree = "<group>"; };
+		33903CD9267824CA00BEEA82 /* luckyPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luckyPin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				330A3BE72665A07A000633EC /* averageLength.swift */,
 				330A3BE82665A07A000633EC /* gridRepainting2.swift */,
 				330A3C2A2666D475000633EC /* UnevenNumbers.swift */,
+				33903CD72678234000BEEA82 /* switches.swift */,
+				33903CD9267824CA00BEEA82 /* luckyPin.swift */,
 				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 			);
@@ -181,8 +187,10 @@
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
 				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
+				33903CD82678234000BEEA82 /* switches.swift in Sources */,
 				330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */,
 				330A3BEA2665A07A000633EC /* gridRepainting2.swift in Sources */,
+				33903CDA267824CA00BEEA82 /* luckyPin.swift in Sources */,
 				330A3C2D2668749F000633EC /* 105.swift in Sources */,
 				330A3BE92665A07A000633EC /* averageLength.swift in Sources */,
 			);

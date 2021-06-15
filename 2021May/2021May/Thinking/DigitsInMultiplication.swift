@@ -42,4 +42,4 @@ func DigitsInMultiplication() {
 
 }
 
-DigitsInMultiplication()
+//DigitsInMultiplication()
