@@ -20,7 +20,7 @@
 		33903CDA267824CA00BEEA82 /* luckyPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD9267824CA00BEEA82 /* luckyPin.swift */; };
 		33903CDC267C2DCB00BEEA82 /* a.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CDB267C2DCB00BEEA82 /* a.swift */; };
 		33903CDE267C2FFE00BEEA82 /* PermutationCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CDD267C2FFE00BEEA82 /* PermutationCheck.swift */; };
-		33903CE0267C30EB00BEEA82 /* pow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CDF267C30EB00BEEA82 /* pow.swift */; };
+		33903CE0267C30EB00BEEA82 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CDF267C30EB00BEEA82 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -54,7 +54,7 @@
 		33903CD9267824CA00BEEA82 /* luckyPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luckyPin.swift; sourceTree = "<group>"; };
 		33903CDB267C2DCB00BEEA82 /* a.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = a.swift; sourceTree = "<group>"; };
 		33903CDD267C2FFE00BEEA82 /* PermutationCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationCheck.swift; sourceTree = "<group>"; };
-		33903CDF267C30EB00BEEA82 /* pow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pow.swift; sourceTree = "<group>"; };
+		33903CDF267C30EB00BEEA82 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +115,7 @@
 				33903CD9267824CA00BEEA82 /* luckyPin.swift */,
 				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
-				33903CDF267C30EB00BEEA82 /* pow.swift */,
+				33903CDF267C30EB00BEEA82 /* main.swift */,
 			);
 			name = Thinking;
 			path = ../../2021May/2021May/Thinking;
@@ -201,7 +201,7 @@
 				330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */,
 				330A3BEA2665A07A000633EC /* gridRepainting2.swift in Sources */,
 				33903CDE267C2FFE00BEEA82 /* PermutationCheck.swift in Sources */,
-				33903CE0267C30EB00BEEA82 /* pow.swift in Sources */,
+				33903CE0267C30EB00BEEA82 /* main.swift in Sources */,
 				33903CDA267824CA00BEEA82 /* luckyPin.swift in Sources */,
 				330A3C2D2668749F000633EC /* 105.swift in Sources */,
 				330A3BE92665A07A000633EC /* averageLength.swift in Sources */,

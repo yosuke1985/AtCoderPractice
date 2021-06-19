@@ -8,21 +8,24 @@
 import Foundation
 
 func pow() {
-    let readlineList = readLine()!.split(separator: " ").map { Double($0)! }
-    let A = fabs(readlineList[0])
-    let B = fabs(readlineList[1])
+    let readlineList = readLine()!.split(separator: " ").map { Int($0)! }
+    var A = readlineList[0]
+    var B = readlineList[1]
     let C = readlineList[2]
+    
+    if C % 2 == 0 {
+        A = abs(A)
+        B = abs(B)
+    }
     
     if A < B {
         print("<")
-        
+
     } else if A == B {
         print("=")
     } else {
         print(">")
     }
-    
 }
 
-
-//pow()
+pow()
