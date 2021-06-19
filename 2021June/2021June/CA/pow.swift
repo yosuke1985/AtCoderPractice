@@ -28,4 +28,4 @@ func pow() {
     }
 }
 
-pow()
+//pow()
