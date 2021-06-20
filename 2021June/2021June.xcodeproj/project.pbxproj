@@ -24,6 +24,7 @@
 		33903CE2267D9CA100BEEA82 /* Rockpaperscissors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CE1267D9CA100BEEA82 /* Rockpaperscissors.swift */; };
 		33903CE4267D9E7400BEEA82 /* nuts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CE3267D9E7400BEEA82 /* nuts.swift */; };
 		33903CE6267D9F4000BEEA82 /* tour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CE5267D9F4000BEEA82 /* tour.swift */; };
+		33903CEB267F47D800BEEA82 /* Chinchirorin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CEA267F47D700BEEA82 /* Chinchirorin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		33903CE1267D9CA100BEEA82 /* Rockpaperscissors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rockpaperscissors.swift; sourceTree = "<group>"; };
 		33903CE3267D9E7400BEEA82 /* nuts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nuts.swift; sourceTree = "<group>"; };
 		33903CE5267D9F4000BEEA82 /* tour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tour.swift; sourceTree = "<group>"; };
+		33903CEA267F47D700BEEA82 /* Chinchirorin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chinchirorin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		33903CBC2669D4ED00BEEA82 /* CA */ = {
 			isa = PBXGroup;
 			children = (
+				33903CEA267F47D700BEEA82 /* Chinchirorin.swift */,
 				33903CDF267C30EB00BEEA82 /* pow.swift */,
 				33903CE3267D9E7400BEEA82 /* nuts.swift */,
 				33903CE1267D9CA100BEEA82 /* Rockpaperscissors.swift */,
@@ -209,6 +212,7 @@
 				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
 				33903CD82678234000BEEA82 /* switches.swift in Sources */,
 				330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */,
+				33903CEB267F47D800BEEA82 /* Chinchirorin.swift in Sources */,
 				330A3BEA2665A07A000633EC /* gridRepainting2.swift in Sources */,
 				33903CE6267D9F4000BEEA82 /* tour.swift in Sources */,
 				33903CDE267C2FFE00BEEA82 /* PermutationCheck.swift in Sources */,
