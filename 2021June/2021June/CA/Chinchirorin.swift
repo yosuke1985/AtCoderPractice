@@ -4,6 +4,7 @@
 //
 //  Created by Yosuke Nakayama on 2021/06/20.
 //
+// https://atcoder.jp/contests/abc203/tasks/abc203_a
 
 import Foundation
 
@@ -39,4 +40,4 @@ func Chinchirorin() {
     
 }
 
-Chinchirorin()
+//Chinchirorin()

@@ -25,6 +25,7 @@
 		33903CE4267D9E7400BEEA82 /* nuts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CE3267D9E7400BEEA82 /* nuts.swift */; };
 		33903CE6267D9F4000BEEA82 /* tour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CE5267D9F4000BEEA82 /* tour.swift */; };
 		33903CEB267F47D800BEEA82 /* Chinchirorin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CEA267F47D700BEEA82 /* Chinchirorin.swift */; };
+		339F730A268027E900E8E860 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339F7309268027E900E8E860 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		33903CE3267D9E7400BEEA82 /* nuts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nuts.swift; sourceTree = "<group>"; };
 		33903CE5267D9F4000BEEA82 /* tour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tour.swift; sourceTree = "<group>"; };
 		33903CEA267F47D700BEEA82 /* Chinchirorin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chinchirorin.swift; sourceTree = "<group>"; };
+		339F7309268027E900E8E860 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 				33903CE5267D9F4000BEEA82 /* tour.swift */,
+				339F7309268027E900E8E860 /* main.swift */,
 			);
 			name = Thinking;
 			path = ../../2021May/2021May/Thinking;
@@ -206,6 +209,7 @@
 				33903CE2267D9CA100BEEA82 /* Rockpaperscissors.swift in Sources */,
 				33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */,
 				33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */,
+				339F730A268027E900E8E860 /* main.swift in Sources */,
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,
 				33903CDC267C2DCB00BEEA82 /* a.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
