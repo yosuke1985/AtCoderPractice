@@ -1,9 +1,9 @@
 //
-//  AtCoder Condominium.swift
+//  AtCoderCondominium.swift
 //  2021June
 //
 //  Created by Yosuke Nakayama on 2021/06/21.
-//
+// https://atcoder.jp/contests/abc203/tasks/abc203_b
 
 import Foundation
 
@@ -23,4 +23,4 @@ func AtCoderCondominium() {
     print(sum)
 }
 
-AtCoderCondominium()
+//AtCoderCondominium()
