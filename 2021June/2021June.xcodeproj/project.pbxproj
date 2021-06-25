@@ -13,6 +13,9 @@
 		330A3BEB2665A0D7000633EC /* chooseIntegers2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BD72665A006000633EC /* chooseIntegers2.swift */; };
 		330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2A2666D475000633EC /* UnevenNumbers.swift */; };
 		330A3C2D2668749F000633EC /* 105.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2C2668749F000633EC /* 105.swift */; };
+		331089EC26854BC2009DC405 /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089EB26854BC2009DC405 /* SquareInequality.swift */; };
+		331089EE26854CC3009DC405 /* Intersection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089ED26854CC3009DC405 /* Intersection.swift */; };
+		331089F02685517A009DC405 /* IPFL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089EF2685517A009DC405 /* IPFL.swift */; };
 		331239042682AEB300C9FE29 /* TinyArithmeticSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331239032682AEB300C9FE29 /* TinyArithmeticSequence.swift */; };
 		331239062682B04F00C9FE29 /* highestmountain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331239052682B04F00C9FE29 /* highestmountain.swift */; };
 		336CDAA52683E2860074E39C /* century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CDAA42683E2860074E39C /* century.swift */; };
@@ -58,6 +61,9 @@
 		330A3BE82665A07A000633EC /* gridRepainting2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gridRepainting2.swift; path = 2021June/Thinking/gridRepainting2.swift; sourceTree = SOURCE_ROOT; };
 		330A3C2A2666D475000633EC /* UnevenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnevenNumbers.swift; sourceTree = "<group>"; };
 		330A3C2C2668749F000633EC /* 105.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 105.swift; sourceTree = "<group>"; };
+		331089EB26854BC2009DC405 /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
+		331089ED26854CC3009DC405 /* Intersection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersection.swift; sourceTree = "<group>"; };
+		331089EF2685517A009DC405 /* IPFL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPFL.swift; sourceTree = "<group>"; };
 		331239032682AEB300C9FE29 /* TinyArithmeticSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinyArithmeticSequence.swift; sourceTree = "<group>"; };
 		331239052682B04F00C9FE29 /* highestmountain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = highestmountain.swift; sourceTree = "<group>"; };
 		336CDAA42683E2860074E39C /* century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = century.swift; sourceTree = "<group>"; };
@@ -135,9 +141,10 @@
 				330A3C2A2666D475000633EC /* UnevenNumbers.swift */,
 				33903CD72678234000BEEA82 /* switches.swift */,
 				33903CD9267824CA00BEEA82 /* luckyPin.swift */,
-				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 				33903CE5267D9F4000BEEA82 /* tour.swift */,
+				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
+				331089EF2685517A009DC405 /* IPFL.swift */,
 			);
 			name = Thinking;
 			path = ../../2021May/2021May/Thinking;
@@ -146,6 +153,8 @@
 		33903CBC2669D4ED00BEEA82 /* CA */ = {
 			isa = PBXGroup;
 			children = (
+				331089ED26854CC3009DC405 /* Intersection.swift */,
+				331089EB26854BC2009DC405 /* SquareInequality.swift */,
 				336CDAA62683EAE00074E39C /* thABC.swift */,
 				336CDAA42683E2860074E39C /* century.swift */,
 				331239052682B04F00C9FE29 /* highestmountain.swift */,
@@ -224,9 +233,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				331089EE26854CC3009DC405 /* Intersection.swift in Sources */,
 				339F730E26815F0500E8E860 /* num180.swift in Sources */,
 				33903CE2267D9CA100BEEA82 /* Rockpaperscissors.swift in Sources */,
 				33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */,
+				331089EC26854BC2009DC405 /* SquareInequality.swift in Sources */,
 				331239062682B04F00C9FE29 /* highestmountain.swift in Sources */,
 				33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */,
 				339F730A268027E900E8E860 /* AtCoderCondominium.swift in Sources */,
@@ -234,6 +245,7 @@
 				336CDAA72683EAE00074E39C /* thABC.swift in Sources */,
 				33903CDC267C2DCB00BEEA82 /* a.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
+				331089F02685517A009DC405 /* IPFL.swift in Sources */,
 				339F730C26815B7D00E8E860 /* ThreeDice.swift in Sources */,
 				336CDAA52683E2860074E39C /* century.swift in Sources */,
 				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
