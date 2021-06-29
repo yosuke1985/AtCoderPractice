@@ -38,4 +38,4 @@ func Palindrome0() {
     
 }
 
-Palindrome0()
+//Palindrome0()
