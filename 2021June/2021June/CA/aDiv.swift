@@ -4,6 +4,7 @@
 //
 //  Created by Yosuke Nakayama on 2021/06/28.
 //
+// https://atcoder.jp/contests/abc198/tasks/abc198_a
 
 import Foundation
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		330371D9268E720400A92C33 /* Discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330371D8268E720400A92C33 /* Discount.swift */; };
 		330A3BE62665A059000633EC /* ATCoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BE52665A058000633EC /* ATCoder.swift */; };
 		330A3BE92665A07A000633EC /* averageLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BE72665A07A000633EC /* averageLength.swift */; };
 		330A3BEA2665A07A000633EC /* gridRepainting2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3BE82665A07A000633EC /* gridRepainting2.swift */; };
@@ -15,7 +16,6 @@
 		330A3C2D2668749F000633EC /* 105.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330A3C2C2668749F000633EC /* 105.swift */; };
 		331089EC26854BC2009DC405 /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089EB26854BC2009DC405 /* SquareInequality.swift */; };
 		331089EE26854CC3009DC405 /* Intersection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089ED26854CC3009DC405 /* Intersection.swift */; };
-		331089F02685517A009DC405 /* IPFL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089EF2685517A009DC405 /* IPFL.swift */; };
 		331089F226894992009DC405 /* aDiv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089F126894992009DC405 /* aDiv.swift */; };
 		331089F426894C7D009DC405 /* Palindrome0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089F326894C7D009DC405 /* Palindrome0.swift */; };
 		331089FB268AB4DA009DC405 /* Rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331089FA268AB4DA009DC405 /* Rotate.swift */; };
@@ -37,6 +37,8 @@
 		33903CEB267F47D800BEEA82 /* Chinchirorin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CEA267F47D700BEEA82 /* Chinchirorin.swift */; };
 		339D28C1268BF4A2007634F6 /* DifferenceMax.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D28C0268BF4A2007634F6 /* DifferenceMax.swift */; };
 		339D28C3268BF54C007634F6 /* RoundDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D28C2268BF54C007634F6 /* RoundDown.swift */; };
+		339D28C5268D4274007634F6 /* HealthMDeath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D28C4268D4274007634F6 /* HealthMDeath.swift */; };
+		339D28C7268D43F6007634F6 /* ManyOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339D28C6268D43F6007634F6 /* ManyOranges.swift */; };
 		339F730A268027E900E8E860 /* AtCoderCondominium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339F7309268027E900E8E860 /* AtCoderCondominium.swift */; };
 		339F730C26815B7D00E8E860 /* ThreeDice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339F730B26815B7D00E8E860 /* ThreeDice.swift */; };
 		339F730E26815F0500E8E860 /* num180.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339F730D26815F0500E8E860 /* num180.swift */; };
@@ -55,6 +57,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		330371D8268E720400A92C33 /* Discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discount.swift; sourceTree = "<group>"; };
 		330A3BC626659ED8000633EC /* 2021June */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2021June; sourceTree = BUILT_PRODUCTS_DIR; };
 		330A3BD32665A006000633EC /* attention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attention.swift; sourceTree = "<group>"; };
 		330A3BD42665A006000633EC /* trained.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trained.swift; sourceTree = "<group>"; };
@@ -68,7 +71,6 @@
 		330A3C2C2668749F000633EC /* 105.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 105.swift; sourceTree = "<group>"; };
 		331089EB26854BC2009DC405 /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
 		331089ED26854CC3009DC405 /* Intersection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersection.swift; sourceTree = "<group>"; };
-		331089EF2685517A009DC405 /* IPFL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPFL.swift; sourceTree = "<group>"; };
 		331089F126894992009DC405 /* aDiv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aDiv.swift; sourceTree = "<group>"; };
 		331089F326894C7D009DC405 /* Palindrome0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palindrome0.swift; sourceTree = "<group>"; };
 		331089FA268AB4DA009DC405 /* Rotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,8 @@
 		33903CEA267F47D700BEEA82 /* Chinchirorin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chinchirorin.swift; sourceTree = "<group>"; };
 		339D28C0268BF4A2007634F6 /* DifferenceMax.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferenceMax.swift; sourceTree = "<group>"; };
 		339D28C2268BF54C007634F6 /* RoundDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundDown.swift; sourceTree = "<group>"; };
+		339D28C4268D4274007634F6 /* HealthMDeath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthMDeath.swift; sourceTree = "<group>"; };
+		339D28C6268D43F6007634F6 /* ManyOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManyOranges.swift; sourceTree = "<group>"; };
 		339F7309268027E900E8E860 /* AtCoderCondominium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtCoderCondominium.swift; sourceTree = "<group>"; };
 		339F730B26815B7D00E8E860 /* ThreeDice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDice.swift; sourceTree = "<group>"; };
 		339F730D26815F0500E8E860 /* num180.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = num180.swift; sourceTree = "<group>"; };
@@ -140,7 +144,8 @@
 				330A3BD52665A006000633EC /* dayDream.swift */,
 				330A3BD62665A006000633EC /* betweenAandB.swift */,
 			);
-			path = ReThinking;
+			name = ReThinking;
+			path = ../../2021July/2021July/ReThinking;
 			sourceTree = "<group>";
 		};
 		330A3BE12665A021000633EC /* Thinking */ = {
@@ -154,15 +159,17 @@
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 				33903CE5267D9F4000BEEA82 /* tour.swift */,
 				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
-				331089EF2685517A009DC405 /* IPFL.swift */,
 			);
 			name = Thinking;
-			path = ../../2021May/2021May/Thinking;
+			path = ../../2021July/2021July/Thinking;
 			sourceTree = "<group>";
 		};
 		33903CBC2669D4ED00BEEA82 /* CA */ = {
 			isa = PBXGroup;
 			children = (
+				330371D8268E720400A92C33 /* Discount.swift */,
+				339D28C6268D43F6007634F6 /* ManyOranges.swift */,
+				339D28C4268D4274007634F6 /* HealthMDeath.swift */,
 				339D28C2268BF54C007634F6 /* RoundDown.swift */,
 				339D28C0268BF4A2007634F6 /* DifferenceMax.swift */,
 				331089FA268AB4DA009DC405 /* Rotate.swift */,
@@ -250,6 +257,7 @@
 			files = (
 				331089EE26854CC3009DC405 /* Intersection.swift in Sources */,
 				339F730E26815F0500E8E860 /* num180.swift in Sources */,
+				330371D9268E720400A92C33 /* Discount.swift in Sources */,
 				33903CE2267D9CA100BEEA82 /* Rockpaperscissors.swift in Sources */,
 				331089F426894C7D009DC405 /* Palindrome0.swift in Sources */,
 				33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */,
@@ -261,11 +269,12 @@
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,
 				336CDAA72683EAE00074E39C /* thABC.swift in Sources */,
 				33903CDC267C2DCB00BEEA82 /* a.swift in Sources */,
+				339D28C7268D43F6007634F6 /* ManyOranges.swift in Sources */,
 				330A3BE62665A059000633EC /* ATCoder.swift in Sources */,
 				331089FB268AB4DA009DC405 /* Rotate.swift in Sources */,
-				331089F02685517A009DC405 /* IPFL.swift in Sources */,
 				339F730C26815B7D00E8E860 /* ThreeDice.swift in Sources */,
 				336CDAA52683E2860074E39C /* century.swift in Sources */,
+				339D28C5268D4274007634F6 /* HealthMDeath.swift in Sources */,
 				33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */,
 				331239042682AEB300C9FE29 /* TinyArithmeticSequence.swift in Sources */,
 				33903CD82678234000BEEA82 /* switches.swift in Sources */,

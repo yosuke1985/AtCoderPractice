@@ -2,12 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:AtCoderBeginnersSelection/AtCoderBeginnersSelection.xcodeproj">
+      location = "group:2021July/2021July.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:2021June/2021June.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:2021May/2021May.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:2021June/2021June.xcodeproj">
+      location = "group:AtCoderBeginnersSelection/AtCoderBeginnersSelection.xcodeproj">
    </FileRef>
 </Workspace>
