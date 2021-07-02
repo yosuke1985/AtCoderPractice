@@ -30,6 +30,8 @@
 		3303722B268E795F00A92C33 /* tour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037212268E795F00A92C33 /* tour.swift */; };
 		3303722C268E795F00A92C33 /* DigitsInMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037209268E795F00A92C33 /* DigitsInMultiplication.swift */; };
 		3303722D268E795F00A92C33 /* IPFL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303720A268E795F00A92C33 /* IPFL.swift */; };
+		33037237268FDB2200A92C33 /* RemoveIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037236268FDB2200A92C33 /* RemoveIt.swift */; };
+		33037239268FDE3E00A92C33 /* Orthogonality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037238268FDE3E00A92C33 /* Orthogonality.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -69,6 +71,8 @@
 		33037214268E795F00A92C33 /* DigitsInMultiplication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication.swift; sourceTree = "<group>"; };
 		33037215268E795F00A92C33 /* halfAndHalf.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = halfAndHalf.swift; sourceTree = "<group>"; };
 		33037216268E795F00A92C33 /* luckyPin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = luckyPin.swift; sourceTree = "<group>"; };
+		33037236268FDB2200A92C33 /* RemoveIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveIt.swift; sourceTree = "<group>"; };
+		33037238268FDE3E00A92C33 /* Orthogonality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orthogonality.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,7 @@
 		330371FD268E78C600A92C33 /* CA */ = {
 			isa = PBXGroup;
 			children = (
+				33037236268FDB2200A92C33 /* RemoveIt.swift */,
 			);
 			path = CA;
 			sourceTree = "<group>";
@@ -133,6 +138,8 @@
 		33037203268E795E00A92C33 /* Thinking */ = {
 			isa = PBXGroup;
 			children = (
+				33037238268FDE3E00A92C33 /* Orthogonality.swift */,
+				3303720A268E795F00A92C33 /* IPFL.swift */,
 				33037216268E795F00A92C33 /* luckyPin.swift */,
 				33037215268E795F00A92C33 /* halfAndHalf.swift */,
 				33037204268E795E00A92C33 /* tour.swift */,
@@ -147,7 +154,6 @@
 				33037208268E795F00A92C33 /* halfAndHalf.swift */,
 				33037212268E795F00A92C33 /* tour.swift */,
 				33037209268E795F00A92C33 /* DigitsInMultiplication.swift */,
-				3303720A268E795F00A92C33 /* IPFL.swift */,
 			);
 			path = Thinking;
 			sourceTree = "<group>";
@@ -220,6 +226,7 @@
 				33037225268E795F00A92C33 /* UnevenNumbers.swift in Sources */,
 				3303722C268E795F00A92C33 /* DigitsInMultiplication.swift in Sources */,
 				33037220268E795F00A92C33 /* halfAndHalf.swift in Sources */,
+				33037239268FDE3E00A92C33 /* Orthogonality.swift in Sources */,
 				33037218268E795F00A92C33 /* betweenAandB.swift in Sources */,
 				33037221268E795F00A92C33 /* tour.swift in Sources */,
 				33037219268E795F00A92C33 /* attention.swift in Sources */,
@@ -229,6 +236,7 @@
 				33037228268E795F00A92C33 /* switches.swift in Sources */,
 				3303721C268E795F00A92C33 /* trained.swift in Sources */,
 				3303722B268E795F00A92C33 /* tour.swift in Sources */,
+				33037237268FDB2200A92C33 /* RemoveIt.swift in Sources */,
 				33037224268E795F00A92C33 /* gridRepainting2.swift in Sources */,
 				3303721D268E795F00A92C33 /* dayDream.swift in Sources */,
 				3303721F268E795F00A92C33 /* luckyPin.swift in Sources */,
