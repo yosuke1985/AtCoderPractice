@@ -32,6 +32,7 @@
 		3303722D268E795F00A92C33 /* IPFL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303720A268E795F00A92C33 /* IPFL.swift */; };
 		33037237268FDB2200A92C33 /* RemoveIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037236268FDB2200A92C33 /* RemoveIt.swift */; };
 		33037239268FDE3E00A92C33 /* Orthogonality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33037238268FDE3E00A92C33 /* Orthogonality.swift */; };
+		3303724B26925E9000A92C33 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724A26925E9000A92C33 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +74,7 @@
 		33037216268E795F00A92C33 /* luckyPin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = luckyPin.swift; sourceTree = "<group>"; };
 		33037236268FDB2200A92C33 /* RemoveIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveIt.swift; sourceTree = "<group>"; };
 		33037238268FDE3E00A92C33 /* Orthogonality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orthogonality.swift; sourceTree = "<group>"; };
+		3303724A26925E9000A92C33 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 			isa = PBXGroup;
 			children = (
 				33037238268FDE3E00A92C33 /* Orthogonality.swift */,
+				3303724A26925E9000A92C33 /* main.swift */,
 				3303720A268E795F00A92C33 /* IPFL.swift */,
 				33037216268E795F00A92C33 /* luckyPin.swift */,
 				33037215268E795F00A92C33 /* halfAndHalf.swift */,
@@ -220,6 +223,7 @@
 				3303722D268E795F00A92C33 /* IPFL.swift in Sources */,
 				33037222268E795F00A92C33 /* DigitsInMultiplication.swift in Sources */,
 				3303721A268E795F00A92C33 /* attention.swift in Sources */,
+				3303724B26925E9000A92C33 /* main.swift in Sources */,
 				3303721B268E795F00A92C33 /* trained.swift in Sources */,
 				33037223268E795F00A92C33 /* averageLength.swift in Sources */,
 				33037217268E795F00A92C33 /* dayDream.swift in Sources */,
