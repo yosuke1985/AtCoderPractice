@@ -14,15 +14,21 @@ func betweenAandB() {
     let b = items[1]
     let x = items[2]
     
-    var count = 0
+//    var count = 0
     
-    for i in a...b {
-        if i % x == 0 {
-            count += 1
-        }
+//    for i in a...b {
+//        if i % x == 0 {
+//            count += 1
+//        }
+//    }
+
+    if a != 0 {
+      print(b / x - (a - 1) / x)
+    } else {
+      print(b / x + 1)
     }
+
     
-    print(count)
 }
 
 //betweenAandB()
