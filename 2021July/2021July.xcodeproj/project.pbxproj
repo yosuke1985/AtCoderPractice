@@ -33,6 +33,7 @@
 		3303724B26925E9000A92C33 /* Savings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724A26925E9000A92C33 /* Savings.swift */; };
 		3303724D2693E41200A92C33 /* Discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724C2693E41200A92C33 /* Discount.swift */; };
 		3303724F2693E72A00A92C33 /* KaprekarNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724E2693E72A00A92C33 /* KaprekarNumber.swift */; };
+		33DAD5032697ABB200F2DDD6 /* dayDreamAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -75,6 +76,7 @@
 		3303724A26925E9000A92C33 /* Savings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Savings.swift; sourceTree = "<group>"; };
 		3303724C2693E41200A92C33 /* Discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discount.swift; sourceTree = "<group>"; };
 		3303724E2693E72A00A92C33 /* KaprekarNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaprekarNumber.swift; sourceTree = "<group>"; };
+		33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDreamAnswer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 			isa = PBXGroup;
 			children = (
 				3303720D268E795F00A92C33 /* dayDream.swift */,
+				33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */,
 				330371FF268E795E00A92C33 /* betweenAandB.swift */,
 				33037200268E795E00A92C33 /* attention.swift */,
 				3303720E268E795F00A92C33 /* attention.swift */,
@@ -237,6 +240,7 @@
 				33037219268E795F00A92C33 /* attention.swift in Sources */,
 				3303722A268E795F00A92C33 /* halfAndHalf.swift in Sources */,
 				33037226268E795F00A92C33 /* UnevenNumbers.swift in Sources */,
+				33DAD5032697ABB200F2DDD6 /* dayDreamAnswer.swift in Sources */,
 				33037228268E795F00A92C33 /* switches.swift in Sources */,
 				3303721C268E795F00A92C33 /* trained.swift in Sources */,
 				3303722B268E795F00A92C33 /* tour.swift in Sources */,

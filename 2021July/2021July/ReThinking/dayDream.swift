@@ -13,35 +13,42 @@ func dayDream() {
     let n = readLine()!
     
     let dayDreamlist = ["dream", "dreamer", "erase", "eraser"]
-
-    for i in dayDreamlist {
-        print(i, Array(i).last!)
-        if n.last! == Array(i).last! {
-            print(i)
-            
-            // 最後尾の文字列を削除できるかどうか canClipLastWord
-            if true {
-                
+    var flag = true
+    func checkWord(word: String) {
+        for i in dayDreamlist where n.hasSuffix(i) {
+            let cutted = word.dropLast(i.count)
+            if cutted == "" {
+                print("YES")
+                flag = false
+                return
+            } else if cutted.count <= 4 {
+                break
             } else {
-                
+                checkWord(word: "\(cutted)")
             }
         }
     }
     
-    func canClipLast(word: String, by: String) {
-        
-        var checkWord = word
-        var byWord = by
-        if by.last! == checkWord.last! {
-            checkWord.removeLast()
-            byWord.removeLast()
-            canClipLast(word: checkWord, by: byWord)
-        }
-        
-        
+    checkWord(word: n)
+    
+    if flag {
+        print("NO")
     }
-
-
+    
 }
 
-dayDream()
+//dayDream()
+
+
+func dayDream2() {
+    let dayDreamlist = ["dream", "dreamer", "erase", "eraser"]
+    var n = readLine()!
+    
+    while let word = dayDreamlist.first(where: { $0 == $0.suffix($0.count) })  {
+        n.removeLast(word.count)
+    }
+
+    print(n.isEmpty ? "YES" : "NO")
+}
+
+
