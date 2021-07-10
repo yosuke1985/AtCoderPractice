@@ -4,6 +4,8 @@
 //
 //  Created by Yosuke Nakayama on 2021/07/09.
 //
+// https://atcoder.jp/contests/abs/tasks/arc065_a
+
 
 import Foundation
 
@@ -20,4 +22,4 @@ func dayDream8() {
     print(N.isEmpty ? "YES" : "NO")
 }
 
-dayDream8()
+//dayDream8()
