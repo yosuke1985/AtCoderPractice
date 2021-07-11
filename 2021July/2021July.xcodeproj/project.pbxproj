@@ -123,6 +123,10 @@
 		330371FD268E78C600A92C33 /* CA */ = {
 			isa = PBXGroup;
 			children = (
+				33DAD50E2699218B00F2DDD6 /* dayDream3.swift */,
+				330371FF268E795E00A92C33 /* betweenAandB.swift */,
+				33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */,
+				3303720D268E795F00A92C33 /* dayDream.swift */,
 				3303724E2693E72A00A92C33 /* KaprekarNumber.swift */,
 				3303724C2693E41200A92C33 /* Discount.swift */,
 				33037236268FDB2200A92C33 /* RemoveIt.swift */,
@@ -134,11 +138,7 @@
 		330371FE268E795E00A92C33 /* ReThinking */ = {
 			isa = PBXGroup;
 			children = (
-				3303720D268E795F00A92C33 /* dayDream.swift */,
-				33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */,
-				33DAD50E2699218B00F2DDD6 /* dayDream3.swift */,
 				33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */,
-				330371FF268E795E00A92C33 /* betweenAandB.swift */,
 				33037200268E795E00A92C33 /* attention.swift */,
 				3303720E268E795F00A92C33 /* attention.swift */,
 				33037201268E795E00A92C33 /* trained.swift */,
