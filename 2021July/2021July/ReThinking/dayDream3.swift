@@ -42,5 +42,5 @@ func dayDream3() {
     print(repeatString)
 }
 
-dayDream3()
+//dayDream3()
 

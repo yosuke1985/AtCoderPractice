@@ -35,6 +35,7 @@
 		3303724F2693E72A00A92C33 /* KaprekarNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724E2693E72A00A92C33 /* KaprekarNumber.swift */; };
 		33DAD5032697ABB200F2DDD6 /* dayDreamAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */; };
 		33DAD50F2699218B00F2DDD6 /* dayDream3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD50E2699218B00F2DDD6 /* dayDream3.swift */; };
+		33DAD511269BB7AB00F2DDD6 /* dayDream4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,6 +80,7 @@
 		3303724E2693E72A00A92C33 /* KaprekarNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaprekarNumber.swift; sourceTree = "<group>"; };
 		33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDreamAnswer.swift; sourceTree = "<group>"; };
 		33DAD50E2699218B00F2DDD6 /* dayDream3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream3.swift; sourceTree = "<group>"; };
+		33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				3303720D268E795F00A92C33 /* dayDream.swift */,
 				33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */,
 				33DAD50E2699218B00F2DDD6 /* dayDream3.swift */,
+				33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */,
 				330371FF268E795E00A92C33 /* betweenAandB.swift */,
 				33037200268E795E00A92C33 /* attention.swift */,
 				3303720E268E795F00A92C33 /* attention.swift */,
@@ -225,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33037229268E795F00A92C33 /* luckyPin.swift in Sources */,
+				33DAD511269BB7AB00F2DDD6 /* dayDream4.swift in Sources */,
 				33037227268E795F00A92C33 /* switches.swift in Sources */,
 				3303724D2693E41200A92C33 /* Discount.swift in Sources */,
 				3303722D268E795F00A92C33 /* IPFL.swift in Sources */,
