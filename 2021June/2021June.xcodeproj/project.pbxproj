@@ -24,7 +24,6 @@
 		336CDAA52683E2860074E39C /* century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CDAA42683E2860074E39C /* century.swift */; };
 		336CDAA72683EAE00074E39C /* thABC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336CDAA62683EAE00074E39C /* thABC.swift */; };
 		33903CBE2669D61E00BEEA82 /* KthCommonDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */; };
-		33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */; };
 		33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */; };
 		33903CD82678234000BEEA82 /* switches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD72678234000BEEA82 /* switches.swift */; };
 		33903CDA267824CA00BEEA82 /* luckyPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33903CD9267824CA00BEEA82 /* luckyPin.swift */; };
@@ -61,8 +60,6 @@
 		330A3BC626659ED8000633EC /* 2021June */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2021June; sourceTree = BUILT_PRODUCTS_DIR; };
 		330A3BD32665A006000633EC /* attention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attention.swift; sourceTree = "<group>"; };
 		330A3BD42665A006000633EC /* trained.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trained.swift; sourceTree = "<group>"; };
-		330A3BD52665A006000633EC /* dayDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream.swift; sourceTree = "<group>"; };
-		330A3BD62665A006000633EC /* betweenAandB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = betweenAandB.swift; sourceTree = "<group>"; };
 		330A3BD72665A006000633EC /* chooseIntegers2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseIntegers2.swift; sourceTree = "<group>"; };
 		330A3BE52665A058000633EC /* ATCoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ATCoder.swift; path = 2021June/CA/ATCoder.swift; sourceTree = SOURCE_ROOT; };
 		330A3BE72665A07A000633EC /* averageLength.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = averageLength.swift; path = 2021June/Thinking/averageLength.swift; sourceTree = SOURCE_ROOT; };
@@ -79,7 +76,6 @@
 		336CDAA42683E2860074E39C /* century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = century.swift; sourceTree = "<group>"; };
 		336CDAA62683EAE00074E39C /* thABC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thABC.swift; sourceTree = "<group>"; };
 		33903CBD2669D61E00BEEA82 /* KthCommonDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthCommonDivisor.swift; sourceTree = "<group>"; };
-		33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication.swift; sourceTree = "<group>"; };
 		33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = halfAndHalf.swift; sourceTree = "<group>"; };
 		33903CD72678234000BEEA82 /* switches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = switches.swift; sourceTree = "<group>"; };
 		33903CD9267824CA00BEEA82 /* luckyPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luckyPin.swift; sourceTree = "<group>"; };
@@ -141,8 +137,6 @@
 			children = (
 				330A3BD32665A006000633EC /* attention.swift */,
 				330A3BD42665A006000633EC /* trained.swift */,
-				330A3BD52665A006000633EC /* dayDream.swift */,
-				330A3BD62665A006000633EC /* betweenAandB.swift */,
 			);
 			name = ReThinking;
 			path = ../../2021July/2021July/ReThinking;
@@ -158,7 +152,6 @@
 				33903CD9267824CA00BEEA82 /* luckyPin.swift */,
 				33903CD5266B0CF900BEEA82 /* halfAndHalf.swift */,
 				33903CE5267D9F4000BEEA82 /* tour.swift */,
-				33903CBF266A00BE00BEEA82 /* DigitsInMultiplication.swift */,
 			);
 			name = Thinking;
 			path = ../../2021July/2021July/Thinking;
@@ -263,7 +256,6 @@
 				33903CD6266B0CF900BEEA82 /* halfAndHalf.swift in Sources */,
 				331089EC26854BC2009DC405 /* SquareInequality.swift in Sources */,
 				331239062682B04F00C9FE29 /* highestmountain.swift in Sources */,
-				33903CC0266A00BE00BEEA82 /* DigitsInMultiplication.swift in Sources */,
 				339D28C3268BF54C007634F6 /* RoundDown.swift in Sources */,
 				339F730A268027E900E8E860 /* AtCoderCondominium.swift in Sources */,
 				330A3C2B2666D475000633EC /* UnevenNumbers.swift in Sources */,

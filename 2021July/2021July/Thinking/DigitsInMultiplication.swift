@@ -16,7 +16,7 @@ func DigitsInMultiplication() {
     var fABList: [Int] = []
     
     func findDivisorList() {
-        divisorListRoop: for i in 1...(N/2) where N % i == 0 {
+        divisorListRoop: for i in 1...(Int(sqrt(Double(N)))) where N % i == 0 {
             guard divisorList.count <= 50 else { break divisorListRoop }
             divisorList.insert(i)
         }
