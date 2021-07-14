@@ -35,6 +35,7 @@
 		33DAD511269BB7AB00F2DDD6 /* dayDream4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */; };
 		33DAD516269CED0900F2DDD6 /* attention3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD515269CED0900F2DDD6 /* attention3.swift */; };
 		33DAD518269CF35400F2DDD6 /* DigitsInMultiplication2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD517269CF35400F2DDD6 /* DigitsInMultiplication2.swift */; };
+		33DAD51A269E5E7000F2DDD6 /* DigitsInMultiplication3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD519269E5E7000F2DDD6 /* DigitsInMultiplication3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,6 +80,7 @@
 		33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream4.swift; sourceTree = "<group>"; };
 		33DAD515269CED0900F2DDD6 /* attention3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attention3.swift; sourceTree = "<group>"; };
 		33DAD517269CF35400F2DDD6 /* DigitsInMultiplication2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication2.swift; sourceTree = "<group>"; };
+		33DAD519269E5E7000F2DDD6 /* DigitsInMultiplication3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitsInMultiplication3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 			children = (
 				33037214268E795F00A92C33 /* DigitsInMultiplication.swift */,
 				33DAD517269CF35400F2DDD6 /* DigitsInMultiplication2.swift */,
+				33DAD519269E5E7000F2DDD6 /* DigitsInMultiplication3.swift */,
 				33037238268FDE3E00A92C33 /* Orthogonality.swift */,
 				3303720A268E795F00A92C33 /* IPFL.swift */,
 				33037216268E795F00A92C33 /* luckyPin.swift */,
@@ -249,6 +252,7 @@
 				3303722B268E795F00A92C33 /* tour.swift in Sources */,
 				3303724F2693E72A00A92C33 /* KaprekarNumber.swift in Sources */,
 				33037237268FDB2200A92C33 /* RemoveIt.swift in Sources */,
+				33DAD51A269E5E7000F2DDD6 /* DigitsInMultiplication3.swift in Sources */,
 				33037224268E795F00A92C33 /* gridRepainting2.swift in Sources */,
 				3303721F268E795F00A92C33 /* luckyPin.swift in Sources */,
 				33DAD50F2699218B00F2DDD6 /* dayDream3.swift in Sources */,
