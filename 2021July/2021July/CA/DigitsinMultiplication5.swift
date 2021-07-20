@@ -28,4 +28,4 @@ func DigitsinMultiplication5() {
     print(result)
 }
 
-DigitsinMultiplication5()
+//DigitsinMultiplication5()
