@@ -35,7 +35,7 @@ func attention4() {
     
 }
 
-attention4()
+//attention4()
 
 func main() {
     let n = Int(readLine()!)!
@@ -63,4 +63,4 @@ func main() {
     print(ans)
 }
 
-main()
+//main()
