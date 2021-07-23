@@ -25,9 +25,10 @@
 		3303724B26925E9000A92C33 /* Savings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724A26925E9000A92C33 /* Savings.swift */; };
 		3303724D2693E41200A92C33 /* Discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724C2693E41200A92C33 /* Discount.swift */; };
 		3303724F2693E72A00A92C33 /* KaprekarNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3303724E2693E72A00A92C33 /* KaprekarNumber.swift */; };
+		33C37DAB26AA53D1004921B3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C37DAA26AA53D1004921B3 /* main.swift */; };
 		33D21E8A26A645F500D28C32 /* attentnion4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D21E8926A645F500D28C32 /* attentnion4.swift */; };
 		33D21E8C26A77D0000D28C32 /* ZeroSumRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D21E8B26A77D0000D28C32 /* ZeroSumRanges.swift */; };
-		33D21E8E26A8FCC500D28C32 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D21E8D26A8FCC500D28C32 /* main.swift */; };
+		33D21E8E26A8FCC500D28C32 /* ZeroSumRanges2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D21E8D26A8FCC500D28C32 /* ZeroSumRanges2.swift */; };
 		33DAD5032697ABB200F2DDD6 /* dayDreamAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */; };
 		33DAD50F2699218B00F2DDD6 /* dayDream3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD50E2699218B00F2DDD6 /* dayDream3.swift */; };
 		33DAD511269BB7AB00F2DDD6 /* dayDream4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */; };
@@ -69,9 +70,10 @@
 		3303724A26925E9000A92C33 /* Savings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Savings.swift; sourceTree = "<group>"; };
 		3303724C2693E41200A92C33 /* Discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discount.swift; sourceTree = "<group>"; };
 		3303724E2693E72A00A92C33 /* KaprekarNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaprekarNumber.swift; sourceTree = "<group>"; };
+		33C37DAA26AA53D1004921B3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		33D21E8926A645F500D28C32 /* attentnion4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = attentnion4.swift; sourceTree = "<group>"; };
 		33D21E8B26A77D0000D28C32 /* ZeroSumRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroSumRanges.swift; sourceTree = "<group>"; };
-		33D21E8D26A8FCC500D28C32 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		33D21E8D26A8FCC500D28C32 /* ZeroSumRanges2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroSumRanges2.swift; sourceTree = "<group>"; };
 		33DAD5022697ABB200F2DDD6 /* dayDreamAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDreamAnswer.swift; sourceTree = "<group>"; };
 		33DAD50E2699218B00F2DDD6 /* dayDream3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream3.swift; sourceTree = "<group>"; };
 		33DAD510269BB7AB00F2DDD6 /* dayDream4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayDream4.swift; sourceTree = "<group>"; };
@@ -145,7 +147,8 @@
 				33DAD515269CED0900F2DDD6 /* attention3.swift */,
 				33D21E8926A645F500D28C32 /* attentnion4.swift */,
 				33D21E8B26A77D0000D28C32 /* ZeroSumRanges.swift */,
-				33D21E8D26A8FCC500D28C32 /* main.swift */,
+				33D21E8D26A8FCC500D28C32 /* ZeroSumRanges2.swift */,
+				33C37DAA26AA53D1004921B3 /* main.swift */,
 				33037201268E795E00A92C33 /* trained.swift */,
 			);
 			path = ReThinking;
@@ -231,12 +234,13 @@
 				33037222268E795F00A92C33 /* DigitsInMultiplication.swift in Sources */,
 				3303724B26925E9000A92C33 /* Savings.swift in Sources */,
 				3303721B268E795F00A92C33 /* trained.swift in Sources */,
-				33D21E8E26A8FCC500D28C32 /* main.swift in Sources */,
+				33D21E8E26A8FCC500D28C32 /* ZeroSumRanges2.swift in Sources */,
 				33037223268E795F00A92C33 /* averageLength.swift in Sources */,
 				33037217268E795F00A92C33 /* dayDream.swift in Sources */,
 				33037225268E795F00A92C33 /* UnevenNumbers.swift in Sources */,
 				33DAD518269CF35400F2DDD6 /* DigitsInMultiplication2.swift in Sources */,
 				33DAD516269CED0900F2DDD6 /* attention3.swift in Sources */,
+				33C37DAB26AA53D1004921B3 /* main.swift in Sources */,
 				33037239268FDE3E00A92C33 /* Orthogonality.swift in Sources */,
 				33037218268E795F00A92C33 /* betweenAandB.swift in Sources */,
 				33037221268E795F00A92C33 /* tour.swift in Sources */,

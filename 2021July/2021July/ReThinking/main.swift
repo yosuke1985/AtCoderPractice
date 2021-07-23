@@ -1,48 +1,34 @@
 //
-//  zerosumrange.swift
+//  zerosumrange3.swift
 //  2021July
 //
-//  Created by Yosuke Nakayama on 2021/07/22.
+//  Created by Yosuke Nakayama on 2021/07/23.
 //
 
 import Foundation
 
-func solve(_ N:Int, _ A:[Int]) {
-    var count = [Int: Int]()
-    var answer = 0
-    var sum = 0
-    count[0, default: 0] += 1
-    for a in A {
-        sum += a
-        answer += count[sum, default: 0]
-        count[sum, default: 0] += 1
+func zerosumrange3() {
+    let N = Int(readLine()!)!
+    let aList = readLine()!.split(separator: " ").map { Int($0)! }
+    
+    var sumList:[Int] = []
+    var calc = 0
+
+    aList.forEach { num in
+        sumList.append(calc)
+        calc += num
     }
-    print(answer)
+    
+    print(sumList.sorted())
+    
+
+    var dictionary = [Int: Int]()
+    sumList.forEach { dictionary[$0, default: 0] += 1 }
+    
+    print(dictionary)
+    
+    // 2の場合は１カウント
+    // 3以上の場合は組み合わせ
 }
 
-func zerosumrange() {
-    var tokenIndex = 0, tokenBuffer = [String]()
-    func readString() -> String {
-        if tokenIndex >= tokenBuffer.count {
-            tokenIndex = 0
-            tokenBuffer = readLine()!.split(separator: " ").map { String($0) }
-        }
-        defer { tokenIndex += 1 }
-        return tokenBuffer[tokenIndex]
-    }
-    func readInt() -> Int { Int(readString())! }
-    func readDouble() -> Double { Double(readString())! }
-    let N = readInt()
-    var A = [Int]()
-    for _ in 0..<N {
-        A.append(readInt())
-    }
-    solve(N, A)
-}
-
-#if DEBUG
-let caseNumber = 1
-_ = freopen("in_\(caseNumber).txt", "r", stdin)
-#endif
-
-zerosumrange()
+zerosumrange3()
