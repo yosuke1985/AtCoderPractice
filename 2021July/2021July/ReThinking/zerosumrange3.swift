@@ -42,4 +42,4 @@ func zerosumrange3() {
     print("result", result)
 }
 
-zerosumrange3()
+//zerosumrange3()
