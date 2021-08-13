@@ -119,7 +119,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastUpgradeCheck = 1250;
 				TargetAttributes = {
 					3387432E2633C53200B23611 = {
 						CreatedOnToolsVersion = 12.4;
@@ -284,6 +284,7 @@
 		338743372633C53200B23611 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 826UFXVDY8;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -295,6 +296,7 @@
 		338743382633C53200B23611 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 826UFXVDY8;
 				ENABLE_HARDENED_RUNTIME = YES;
