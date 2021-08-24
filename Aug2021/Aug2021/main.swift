@@ -1,31 +1,37 @@
 //
-//  Canyoubuythemall.swift
+//  howMany.swift
 //  Aug2021
 //
-//  Created by Yosuke Nakayama on 2021/08/11.
+//  Created by Yosuke Nakayama on 2021/08/17.
 //
-// https://atcoder.jp/contests/abc209/tasks/abc209_b
+// https://atcoder.jp/contests/abc214/tasks/abc214_b
 
 import Foundation
 
-func Canyoubuythemall() {
-    let nx = readLine()!.split(separator: " ").map { Int($0)! }
-    let N = nx[0]
-    let X = nx[1]
-    let aList = readLine()!.split(separator: " ").map { Int($0)! }
+func howMany() {
+    let st = readLine()!.split(separator: " ").map { Int($0)! }
+    let S = st[0]
+    let T = st[1]
+    var count = 0
     
-    var sum = 0
+    // a + b + c <= S, a * b * c <= T
+    //
     
-    for (index, element) in aList.enumerated() {
-        if (index + 1) % 2 == 0 {
-            sum += element - 1
-        } else {
-            sum += element
+    for a in 0...S {
+        
+        for b in 0...(S - a) {
+            
+            for c in 0 ... (S - a - b) {
+                
+                if a + b + c <= S, a * b * c <= T {
+                    count += 1
+               }
+            }
         }
+        
     }
     
-    print(sum <= X ? "Yes" : "No")
+    print(count)
 }
 
-
-Canyoubuythemall()
+howMany()
