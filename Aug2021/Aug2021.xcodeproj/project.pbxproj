@@ -8,7 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		333446E926C34AC80043378B /* Canyoubuythemall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333446E826C34AC80043378B /* Canyoubuythemall.swift */; };
-		335698E326CB389B00B0B225 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335698E226CB389B00B0B225 /* main.swift */; };
+		335698E326CB389B00B0B225 /* howMany.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335698E226CB389B00B0B225 /* howMany.swift */; };
+		33B6D7A126D86B270028560B /* boobyPrize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B6D7A026D86B270028560B /* boobyPrize.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,8 +26,9 @@
 
 /* Begin PBXFileReference section */
 		333446E826C34AC80043378B /* Canyoubuythemall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canyoubuythemall.swift; sourceTree = "<group>"; };
-		335698E226CB389B00B0B225 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		335698E226CB389B00B0B225 /* howMany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = howMany.swift; sourceTree = "<group>"; };
 		33A5CE6326C20A780039C601 /* Aug2021 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Aug2021; sourceTree = BUILT_PRODUCTS_DIR; };
+		33B6D7A026D86B270028560B /* boobyPrize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boobyPrize.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				333446E826C34AC80043378B /* Canyoubuythemall.swift */,
-				335698E226CB389B00B0B225 /* main.swift */,
+				335698E226CB389B00B0B225 /* howMany.swift */,
+				33B6D7A026D86B270028560B /* boobyPrize.swift */,
 			);
 			path = Aug2021;
 			sourceTree = "<group>";
@@ -122,8 +125,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33B6D7A126D86B270028560B /* boobyPrize.swift in Sources */,
 				333446E926C34AC80043378B /* Canyoubuythemall.swift in Sources */,
-				335698E326CB389B00B0B225 /* main.swift in Sources */,
+				335698E326CB389B00B0B225 /* howMany.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
