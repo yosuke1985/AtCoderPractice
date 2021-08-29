@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		333446E926C34AC80043378B /* Canyoubuythemall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333446E826C34AC80043378B /* Canyoubuythemall.swift */; };
 		335698E326CB389B00B0B225 /* howMany.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335698E226CB389B00B0B225 /* howMany.swift */; };
+		339EAD9A26DC52C3000D6A73 /* SignedDifficulty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339EAD9926DC52C3000D6A73 /* SignedDifficulty.swift */; };
 		33B6D7A126D86B270028560B /* boobyPrize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B6D7A026D86B270028560B /* boobyPrize.swift */; };
 		33B6D7A326DB05C30028560B /* dontbelate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B6D7A226DB05C30028560B /* dontbelate.swift */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,7 @@
 /* Begin PBXFileReference section */
 		333446E826C34AC80043378B /* Canyoubuythemall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canyoubuythemall.swift; sourceTree = "<group>"; };
 		335698E226CB389B00B0B225 /* howMany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = howMany.swift; sourceTree = "<group>"; };
+		339EAD9926DC52C3000D6A73 /* SignedDifficulty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignedDifficulty.swift; sourceTree = "<group>"; };
 		33A5CE6326C20A780039C601 /* Aug2021 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Aug2021; sourceTree = BUILT_PRODUCTS_DIR; };
 		33B6D7A026D86B270028560B /* boobyPrize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boobyPrize.swift; sourceTree = "<group>"; };
 		33B6D7A226DB05C30028560B /* dontbelate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dontbelate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				335698E226CB389B00B0B225 /* howMany.swift */,
 				33B6D7A026D86B270028560B /* boobyPrize.swift */,
 				33B6D7A226DB05C30028560B /* dontbelate.swift */,
+				339EAD9926DC52C3000D6A73 /* SignedDifficulty.swift */,
 			);
 			path = Aug2021;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				33B6D7A126D86B270028560B /* boobyPrize.swift in Sources */,
 				33B6D7A326DB05C30028560B /* dontbelate.swift in Sources */,
 				333446E926C34AC80043378B /* Canyoubuythemall.swift in Sources */,
+				339EAD9A26DC52C3000D6A73 /* SignedDifficulty.swift in Sources */,
 				335698E326CB389B00B0B225 /* howMany.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
