@@ -12,18 +12,31 @@ func ManyBalls() {
     let N = Int(readLine()!)!
     var count = 0
     
-    var result = 0
+    var calc = N
+    
+    var answerList = Array<Character>()
     
     while count < 120 {
-        if result <= N {
-            print("finished")
+        if calc == 0 {
+            var output = ""
+            
+            answerList.forEach { char in
+                output += "\(char)"
+            }
+            print(output)
             return
-        } else if N - result <= 2 {
-            result *= 2
-        } else {
-            result += 1
         }
         
+        if calc % 2 == 0 {
+            calc = calc / 2
+            answerList.insert(contentsOf: "A", at: 0)
+        } else {
+            calc -= 1
+            answerList.insert(contentsOf: "B", at: 0)
+        }
+        
+
+
         
         count += 1
     }
