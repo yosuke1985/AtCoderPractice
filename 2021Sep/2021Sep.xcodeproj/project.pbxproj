@@ -8,7 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		3311591826E05FA70052C14C /* takoyaki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311591726E05FA70052C14C /* takoyaki.swift */; };
-		3311592C26E19FCA0052C14C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311592B26E19FCA0052C14C /* main.swift */; };
+		3311592C26E19FCA0052C14C /* ManyBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311592B26E19FCA0052C14C /* ManyBalls.swift */; };
+		3311593326E58AFB0052C14C /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593226E58AFB0052C14C /* SquareInequality.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +27,8 @@
 /* Begin PBXFileReference section */
 		3311591426E05FA70052C14C /* 2021Sep */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2021Sep; sourceTree = BUILT_PRODUCTS_DIR; };
 		3311591726E05FA70052C14C /* takoyaki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = takoyaki.swift; sourceTree = "<group>"; };
-		3311592B26E19FCA0052C14C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3311592B26E19FCA0052C14C /* ManyBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManyBalls.swift; sourceTree = "<group>"; };
+		3311593226E58AFB0052C14C /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				3311591726E05FA70052C14C /* takoyaki.swift */,
-				3311592B26E19FCA0052C14C /* main.swift */,
+				3311592B26E19FCA0052C14C /* ManyBalls.swift */,
+				3311593226E58AFB0052C14C /* SquareInequality.swift */,
 			);
 			path = 2021Sep;
 			sourceTree = "<group>";
@@ -124,7 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3311591826E05FA70052C14C /* takoyaki.swift in Sources */,
-				3311592C26E19FCA0052C14C /* main.swift in Sources */,
+				3311592C26E19FCA0052C14C /* ManyBalls.swift in Sources */,
+				3311593326E58AFB0052C14C /* SquareInequality.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
