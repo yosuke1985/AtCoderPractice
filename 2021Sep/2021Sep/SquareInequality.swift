@@ -23,4 +23,4 @@ func SquareInequality() {
     
 }
 
-SquareInequality()
+//SquareInequality()
