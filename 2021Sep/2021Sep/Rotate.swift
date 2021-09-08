@@ -32,4 +32,4 @@ func Rotate() {
     print(result)
 }
 
-Rotate()
+//Rotate()
