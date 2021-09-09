@@ -13,6 +13,7 @@
 		3311593526E6E6300052C14C /* Rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593426E6E6300052C14C /* Rotate.swift */; };
 		3311593726E835970052C14C /* Orthogonality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593626E835970052C14C /* Orthogonality.swift */; };
 		3311593926E991F00052C14C /* RemoveIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593826E991F00052C14C /* RemoveIt.swift */; };
+		336D2E9226EABD470006A6BC /* Magic3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336D2E9126EABD470006A6BC /* Magic3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		3311593426E6E6300052C14C /* Rotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotate.swift; sourceTree = "<group>"; };
 		3311593626E835970052C14C /* Orthogonality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orthogonality.swift; sourceTree = "<group>"; };
 		3311593826E991F00052C14C /* RemoveIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveIt.swift; sourceTree = "<group>"; };
+		336D2E9126EABD470006A6BC /* Magic3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				3311593426E6E6300052C14C /* Rotate.swift */,
 				3311593626E835970052C14C /* Orthogonality.swift */,
 				3311593826E991F00052C14C /* RemoveIt.swift */,
+				336D2E9126EABD470006A6BC /* Magic3.swift */,
 			);
 			path = 2021Sep;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3311592C26E19FCA0052C14C /* ManyBalls.swift in Sources */,
 				3311593526E6E6300052C14C /* Rotate.swift in Sources */,
 				3311593326E58AFB0052C14C /* SquareInequality.swift in Sources */,
+				336D2E9226EABD470006A6BC /* Magic3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
