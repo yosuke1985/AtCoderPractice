@@ -12,6 +12,7 @@
 		3311593326E58AFB0052C14C /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593226E58AFB0052C14C /* SquareInequality.swift */; };
 		3311593526E6E6300052C14C /* Rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593426E6E6300052C14C /* Rotate.swift */; };
 		3311593726E835970052C14C /* Orthogonality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593626E835970052C14C /* Orthogonality.swift */; };
+		3311593926E991F00052C14C /* RemoveIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311593826E991F00052C14C /* RemoveIt.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		3311593226E58AFB0052C14C /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
 		3311593426E6E6300052C14C /* Rotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotate.swift; sourceTree = "<group>"; };
 		3311593626E835970052C14C /* Orthogonality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orthogonality.swift; sourceTree = "<group>"; };
+		3311593826E991F00052C14C /* RemoveIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveIt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				3311593226E58AFB0052C14C /* SquareInequality.swift */,
 				3311593426E6E6300052C14C /* Rotate.swift */,
 				3311593626E835970052C14C /* Orthogonality.swift */,
+				3311593826E991F00052C14C /* RemoveIt.swift */,
 			);
 			path = 2021Sep;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			files = (
 				3311591826E05FA70052C14C /* takoyaki.swift in Sources */,
 				3311593726E835970052C14C /* Orthogonality.swift in Sources */,
+				3311593926E991F00052C14C /* RemoveIt.swift in Sources */,
 				3311592C26E19FCA0052C14C /* ManyBalls.swift in Sources */,
 				3311593526E6E6300052C14C /* Rotate.swift in Sources */,
 				3311593326E58AFB0052C14C /* SquareInequality.swift in Sources */,
