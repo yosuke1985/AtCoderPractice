@@ -8,9 +8,20 @@
 import Foundation
 
 func MartialArtist() {
+    let N = Int(readLine()!)!
+    var aList: [[Int]] = []
     
+    (0..<N).forEach { _ in
+        var row = readLine()!.split(separator: " ").map { Int($0)! }
+            
+        row.removeFirst() // T
+
+        aList.append(row)
+        
+    }
     
+    print(aList)
     
 }
 
-MartialArtist()
+//MartialArtist()

@@ -38,4 +38,4 @@ func CountingArrays() {
     print(numList.count)
 }
 
-CountingArrays()
+//CountingArrays()

@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		33356F34273D2B580011D4E3 /* Rounddecimals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33356F33273D2B580011D4E3 /* Rounddecimals.swift */; };
 		33356F3C273DD6F90011D4E3 /* CountingArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33356F3B273DD6F90011D4E3 /* CountingArrays.swift */; };
+		339628852745110A00092366 /* Rotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339628842745110A00092366 /* Rotate.swift */; };
+		33C61C3427432C2200A6FE7F /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C61C3327432C2200A6FE7F /* SquareInequality.swift */; };
 		33CB0AD827409322007486D6 /* MartialArtist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CB0AD727409322007486D6 /* MartialArtist.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +30,8 @@
 		33356F30273D2B580011D4E3 /* 2021Nov */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2021Nov; sourceTree = BUILT_PRODUCTS_DIR; };
 		33356F33273D2B580011D4E3 /* Rounddecimals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rounddecimals.swift; sourceTree = "<group>"; };
 		33356F3B273DD6F90011D4E3 /* CountingArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingArrays.swift; sourceTree = "<group>"; };
+		339628842745110A00092366 /* Rotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotate.swift; sourceTree = "<group>"; };
+		33C61C3327432C2200A6FE7F /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
 		33CB0AD727409322007486D6 /* MartialArtist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MartialArtist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +68,8 @@
 				33356F33273D2B580011D4E3 /* Rounddecimals.swift */,
 				33356F3B273DD6F90011D4E3 /* CountingArrays.swift */,
 				33CB0AD727409322007486D6 /* MartialArtist.swift */,
+				33C61C3327432C2200A6FE7F /* SquareInequality.swift */,
+				339628842745110A00092366 /* Rotate.swift */,
 			);
 			path = 2021Nov;
 			sourceTree = "<group>";
@@ -129,6 +135,8 @@
 				33CB0AD827409322007486D6 /* MartialArtist.swift in Sources */,
 				33356F3C273DD6F90011D4E3 /* CountingArrays.swift in Sources */,
 				33356F34273D2B580011D4E3 /* Rounddecimals.swift in Sources */,
+				339628852745110A00092366 /* Rotate.swift in Sources */,
+				33C61C3427432C2200A6FE7F /* SquareInequality.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
