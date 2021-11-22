@@ -15,6 +15,7 @@
 		33C61C3427432C2200A6FE7F /* SquareInequality.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C61C3327432C2200A6FE7F /* SquareInequality.swift */; };
 		33CB0AD827409322007486D6 /* MartialArtist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CB0AD727409322007486D6 /* MartialArtist.swift */; };
 		C9EA7E83274A2C0900BFB8B4 /* OnandOff.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9EA7E82274A2C0900BFB8B4 /* OnandOff.swift */; };
+		C9EA7E85274B34B700BFB8B4 /* Magic3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9EA7E84274B34B700BFB8B4 /* Magic3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		33C61C3327432C2200A6FE7F /* SquareInequality.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareInequality.swift; sourceTree = "<group>"; };
 		33CB0AD727409322007486D6 /* MartialArtist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MartialArtist.swift; sourceTree = "<group>"; };
 		C9EA7E82274A2C0900BFB8B4 /* OnandOff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnandOff.swift; sourceTree = "<group>"; };
+		C9EA7E84274B34B700BFB8B4 /* Magic3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				33C24F542747318E006E7456 /* Orthogonality.swift */,
 				33C24F562748B335006E7456 /* RemoveIt.swift */,
 				C9EA7E82274A2C0900BFB8B4 /* OnandOff.swift */,
+				C9EA7E84274B34B700BFB8B4 /* Magic3.swift */,
 			);
 			path = 2021Nov;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				33C24F552747318E006E7456 /* Orthogonality.swift in Sources */,
 				33C24F572748B335006E7456 /* RemoveIt.swift in Sources */,
 				33356F3C273DD6F90011D4E3 /* CountingArrays.swift in Sources */,
+				C9EA7E85274B34B700BFB8B4 /* Magic3.swift in Sources */,
 				C9EA7E83274A2C0900BFB8B4 /* OnandOff.swift in Sources */,
 				33356F34273D2B580011D4E3 /* Rounddecimals.swift in Sources */,
 				339628852745110A00092366 /* Rotate.swift in Sources */,
@@ -206,7 +210,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -261,7 +265,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -276,6 +280,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 826UFXVDY8;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -287,6 +292,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 826UFXVDY8;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
