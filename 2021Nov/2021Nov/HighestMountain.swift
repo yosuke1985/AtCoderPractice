@@ -8,23 +8,25 @@
 
 import Foundation
 
-
+struct Mountain {
+    var name: String
+    var height: Int
+}
 
 func HighestMountain() {
     let N = Int(readLine()!)!
-    var keyValuePairs: KeyValuePairs<String, Int> = KeyValuePairs()
-    
+    var mtList: [Mountain] = []
     (0..<N).forEach { _ in
         let row = readLine()!.split(separator: " ")
-            
-        var dicList = keyValuePairs.reduce(into: [String: Int]()) { partialResult, kv in
-            partialResult[kv.key] = kv.value
-        }
+        let mt = Mountain(name: String(row[0]), height: Int(row[1])!)
         
-        print("row", keyValuePairs)
-        
+        mtList.append(mt)
     }
+    
+    mtList = mtList.sorted { $0.height > $1.height }
+    print(mtList[1].name)
 
 }
 
 //HighestMountain()
+
