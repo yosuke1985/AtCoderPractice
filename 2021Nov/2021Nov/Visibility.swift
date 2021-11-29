@@ -24,6 +24,20 @@ func Visibility() {
     print(sList)
 
 
+    /*
+     場合分け
+     
+     1. センター
+     2. 左
+     3. 右
+     4. 上
+     5. 下
+     */
+    
+    // 1
+    
+
+    print(sList[X-1][Y-1] == "." ? "true" : "false")
 }
 
 
