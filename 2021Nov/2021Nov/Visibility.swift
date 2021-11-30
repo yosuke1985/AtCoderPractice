@@ -26,7 +26,7 @@ func Visibility() {
 
     /*
      場合分け
-     
+     紙とペンいる
      1. センター
      2. 左
      3. 右
@@ -38,6 +38,16 @@ func Visibility() {
     
 
     print(sList[X-1][Y-1] == "." ? "true" : "false")
+    
+    // 2
+    
+    sList[X-1] //row List, 0..<Y-1
+    
+    // 3
+    
+    sList[X-1] // row List, Y-1..sList[X-1].count
+    
+    // 4
 }
 
 
