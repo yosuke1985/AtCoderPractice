@@ -48,6 +48,8 @@ func Visibility() {
     sList[X-1] // row List, Y-1..sList[X-1].count
     
     // 4
+    
+    
 }
 
 
