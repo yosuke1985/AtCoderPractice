@@ -18,6 +18,7 @@
 		C9EA7E83274A2C0900BFB8B4 /* OnandOff.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9EA7E82274A2C0900BFB8B4 /* OnandOff.swift */; };
 		C9EA7E85274B34B700BFB8B4 /* Magic3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9EA7E84274B34B700BFB8B4 /* Magic3.swift */; };
 		C9EA7E87274CBBE900BFB8B4 /* HighestMountain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9EA7E86274CBBE900BFB8B4 /* HighestMountain.swift */; };
+		C9F2BEB3275A66DD00823A73 /* KaprekarNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F2BEB2275A66DD00823A73 /* KaprekarNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		C9EA7E82274A2C0900BFB8B4 /* OnandOff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnandOff.swift; sourceTree = "<group>"; };
 		C9EA7E84274B34B700BFB8B4 /* Magic3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic3.swift; sourceTree = "<group>"; };
 		C9EA7E86274CBBE900BFB8B4 /* HighestMountain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighestMountain.swift; sourceTree = "<group>"; };
+		C9F2BEB2275A66DD00823A73 /* KaprekarNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaprekarNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				C9EA7E84274B34B700BFB8B4 /* Magic3.swift */,
 				C9EA7E86274CBBE900BFB8B4 /* HighestMountain.swift */,
 				C912284F27521DF8002093F1 /* Visibility.swift */,
+				C9F2BEB2275A66DD00823A73 /* KaprekarNumber.swift */,
 			);
 			path = 2021Nov;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				C912285027521DF8002093F1 /* Visibility.swift in Sources */,
 				33C24F552747318E006E7456 /* Orthogonality.swift in Sources */,
 				33C24F572748B335006E7456 /* RemoveIt.swift in Sources */,
+				C9F2BEB3275A66DD00823A73 /* KaprekarNumber.swift in Sources */,
 				33356F3C273DD6F90011D4E3 /* CountingArrays.swift in Sources */,
 				C9EA7E85274B34B700BFB8B4 /* Magic3.swift in Sources */,
 				C9EA7E83274A2C0900BFB8B4 /* OnandOff.swift in Sources */,
